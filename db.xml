@@ -1,0 +1,1384 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<foods>
+  <food protein="1,3" tallow="61,5" carbon="1,7" kkal="566">Масло сладко-сливочное «Бутербродное»</food>
+  <food protein="0,5" tallow="82,5" carbon="0,8" kkal="748">Масло сладко-сливочное «Вологодское»</food>
+  <food protein="0,5" tallow="82,5" carbon="0,8" kkal="748">Масло сладко-сливочное несоленое</food>
+  <food protein="0,7" tallow="78" carbon="1" kkal="709">Масло сладко-сливочное несоленое «Любительское»</food>
+  <food protein="0,7" tallow="77" carbon="1" kkal="700">Масло сладко-сливочное соленое «Любительское»</food>
+  <food protein="0,8" tallow="72,5" carbon="1,3" kkal="661">Масло сливочное несоленое «Крестьянское»</food>
+  <food protein="0,8" tallow="71,5" carbon="1,3" kkal="647">Масло сливочное соленое «Крестьянское»</food>
+  <food protein="0,5" tallow="82,5" carbon="0,8" kkal="747,5">Масло сливочное, с белком</food>
+  <food protein="0,2" tallow="99" carbon="0" kkal="892">Масло топленое</food>
+  <food protein="12,7" tallow="11,5" carbon="0,7" kkal="157">Меланж</food>
+  <food protein="12,7" tallow="11,5" carbon="0,7" kkal="157">Яйцо куриное</food>
+  <food protein="11,9" tallow="13,1" carbon="0,6" kkal="168">Яйцо перепелиное</food>
+  <food protein="11,1" tallow="0" carbon="0" kkal="44,4">Яичный белок куриный</food>
+  <food protein="82,4" tallow="1,8" carbon="1,2" kkal="350">Яичный белок куриный, сухой</food>
+  <food protein="16,2" tallow="0" carbon="0" kkal="64,8">Яичный желток куриный</food>
+  <food protein="31,1" tallow="52,2" carbon="4,7" kkal="612">Яичный желток куриный, сухой</food>
+  <food protein="46" tallow="37,3" carbon="4,5" kkal="542">Яичный порошок</food>
+  <food protein="0,5" tallow="0" carbon="20" kkal="172">Вина десертные</food>
+  <food protein="0,4" tallow="0" carbon="12" kkal="163">Вина крепкие</food>
+  <food protein="0,5" tallow="0" carbon="30" kkal="212">Вина ликерные</food>
+  <food protein="0,4" tallow="0" carbon="12" kkal="140">Вина полудесертные</food>
+  <food protein="0,2" tallow="0" carbon="5" kkal="88">Вина полусладкие белые и красные (в т. ч. шампанское)</food>
+  <food protein="0,3" tallow="0" carbon="2,5" kkal="78">Вина полусухие белые и красные (в т. ч. шампанское)</food>
+  <food protein="0,2" tallow="0" carbon="8" kkal="100">Вина сладкие белые и красные (в т. ч. шампанское)</food>
+  <food protein="0,2" tallow="0" carbon="0,3" kkal="64">Вина сухие белые и красные (в т. ч. шампанское)</food>
+  <food protein="0" tallow="0" carbon="0,4" kkal="235">Водка</food>
+  <food protein="0" tallow="0" carbon="1,5" kkal="239">Коньяк ординарный «три звездочки»</food>
+  <food protein="0" tallow="0" carbon="40" kkal="299">Ликер Вишневый»</food>
+  <food protein="0" tallow="0" carbon="28" kkal="215">Наливка «Сливянка»</food>
+  <food protein="0" tallow="0" carbon="6,4" kkal="248">Настойка горькая “Русский сувенир”</food>
+  <food protein="0,6" tallow="0" carbon="4,8" kkal="37">Пиво Жигулёвское</food>
+  <food protein="0,3" tallow="0" carbon="4,6" kkal="42">Пиво светлое, с долей сухих в-в в исходном сусле 11%</food>
+  <food protein="0,4" tallow="0" carbon="7,6" kkal="75">Пиво светлое, с долей сухих в-в в исходном сусле 20%</food>
+  <food protein="0,3" tallow="0" carbon="5,7" kkal="48">Пиво темное, с долей сухих в-в в исходном сусле 13%</food>
+  <food protein="0,4" tallow="0" carbon="8,7" kkal="74">Пиво темное, с долей сухих в-в в исходном сусле 20%</food>
+  <food protein="3,7" tallow="1,7" carbon="1,1" kkal="34">Белый гриб</food>
+  <food protein="3" tallow="0,5" carbon="2" kkal="24">Белый гриб маринованный</food>
+  <food protein="30,3" tallow="14,3" carbon="9" kkal="286">Белый гриб сушеный</food>
+  <food protein="3" tallow="0,5" carbon="2" kkal="24">Грибы соленые</food>
+  <food protein="3" tallow="0,5" carbon="2" kkal="24">Грибы сушеные</food>
+  <food protein="1,8" tallow="0,8" carbon="1,1" kkal="18,5">Груздь</food>
+  <food protein="1,5" tallow="1" carbon="1" kkal="19">Лисички</food>
+  <food protein="0,9" tallow="0,4" carbon="3,2" kkal="19,2">Маслята</food>
+  <food protein="2,2" tallow="1,2" carbon="0,5" kkal="22">Опята</food>
+  <food protein="24" tallow="9,2" carbon="37,2" kkal="318,3">Подберезовик сушеный</food>
+  <food protein="2,1" tallow="0,8" carbon="1,2" kkal="20">Подберезовики</food>
+  <food protein="35,4" tallow="5,4" carbon="33,2" kkal="314,7">Подосиновик сушеный</food>
+  <food protein="3,3" tallow="0,5" carbon="1,2" kkal="22">Подосиновики</food>
+  <food protein="1,9" tallow="0,8" carbon="2" kkal="22,3">Рыжик</food>
+  <food protein="2,9" tallow="0,4" carbon="2" kkal="22,7">Сморчок</food>
+  <food protein="1,7" tallow="0,7" carbon="1,5" kkal="19">Сыроежки</food>
+  <food protein="3" tallow="0,5" carbon="2" kkal="24">Трюфели</food>
+  <food protein="1,5" tallow="0,3" carbon="0,1" kkal="9,1">Чернушка</food>
+  <food protein="4,3" tallow="1" carbon="0,1" kkal="27">Шампиньоны</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Вода</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Вода “Ливония” (г. Владивосток)</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Вода “Перье” (PERRIER)</food>
+  <food protein="0,2" tallow="0" carbon="5,2" kkal="27">Квас хлебный</food>
+  <food protein="0,7" tallow="1" carbon="11,2" kkal="58">Кофе на молоке</food>
+  <food protein="0,7" tallow="0,9" carbon="10,9" kkal="55">Кофе на сгущёном молоке</food>
+  <food protein="0,2" tallow="0,5" carbon="0,2" kkal="7">Кофе чёрный без сахара</food>
+  <food protein="0" tallow="0" carbon="9,5" kkal="46">Напитки газированные на плодово-ягодных настоях</food>
+  <food protein="0" tallow="0" carbon="7,5" kkal="33">Напитки газированные на цитрусовых настоях</food>
+  <food protein="0" tallow="0" carbon="8,7" kkal="38">Напитки газированные на эссенциях («Кока-кола», «Пепси-кола»,</food>
+  <food protein="0,1" tallow="0" carbon="6,8" kkal="28">Чай заваренный с лимоном</food>
+  <food protein="0,7" tallow="0,8" carbon="8,2" kkal="43">Чай заваренный с молоком</food>
+  <food protein="0,1" tallow="0" carbon="7" kkal="28">Чай заваренный с сахаром</food>
+  <food protein="0,3" tallow="0" carbon="15,5" kkal="68">Яблочно морковный напиток. Консервы</food>
+  <food protein="0,2" tallow="0" carbon="14" kkal="58">Яблочно-абрикосовый напиток. Консервы</food>
+  <food protein="0,3" tallow="0" carbon="12,3" kkal="52">Яблочно-виноградный напиток</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Арзни</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Боржоми</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Ессентуки №4</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Краинская</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Миргородская</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Нарзан</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Полюстрово</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Славяновская</food>
+  <food protein="0,5" tallow="0,1" carbon="11,2" kkal="51">Айвовый сок</food>
+  <food protein="1,1" tallow="0,1" carbon="12,6" kkal="56">Морковный сок</food>
+  <food protein="1" tallow="0" carbon="14,1" kkal="61">Свекольный сок</food>
+  <food protein="0,2" tallow="0" carbon="70,5" kkal="285">Сироп из шиповника</food>
+  <food protein="0,5" tallow="0" carbon="12,7" kkal="55">Сок абрикосовый</food>
+  <food protein="0,4" tallow="0,2" carbon="11,5" kkal="46,5">Сок ананасовый</food>
+  <food protein="0,7" tallow="0,1" carbon="13,2" kkal="60">Сок апельсиновый</food>
+  <food protein="0,3" tallow="0,2" carbon="16,3" kkal="70">Сок виноградный</food>
+  <food protein="0,7" tallow="0,2" carbon="11,4" kkal="51">Сок вишнёвый</food>
+  <food protein="0,3" tallow="0,1" carbon="14,2" kkal="56">Сок гранатовый</food>
+  <food protein="0,3" tallow="0,1" carbon="7,9" kkal="38">Сок грейпфрутовый</food>
+  <food protein="0,4" tallow="0,3" carbon="11" kkal="45,5">Сок грушевый</food>
+  <food protein="0,4" tallow="0,3" carbon="11" kkal="45,5">Сок клюквенный</food>
+  <food protein="0,6" tallow="0" carbon="3,9" kkal="33">Сок лимонный</food>
+  <food protein="0,8" tallow="0" carbon="9,8" kkal="45">Сок мандариновый</food>
+  <food protein="0,3" tallow="0" carbon="16,5" kkal="68">Сок персиковый</food>
+  <food protein="0,3" tallow="0,1" carbon="15,2" kkal="68">Сок сливовый</food>
+  <food protein="1" tallow="0,1" carbon="2,9" kkal="18">Сок томатный</food>
+  <food protein="0,5" tallow="0,1" carbon="10,1" kkal="46">Сок яблочный</food>
+  <food protein="0,1" tallow="0,1" carbon="11,4" kkal="50">Черноплодно-рябиновый сок</food>
+  <food protein="0,5" tallow="0" carbon="7,3" kkal="41">Черносмородиновый сок</food>
+  <food protein="0,1" tallow="0,2" carbon="16,1" kkal="67">Шиповниковый сок</food>
+  <food protein="13,9" tallow="14,4" carbon="29,5" kkal="331">Кофе жареный в зернах</food>
+  <food protein="13,9" tallow="14,4" carbon="4,1" kkal="200,6">Кофе натуральный, молотый</food>
+  <food protein="15" tallow="3,6" carbon="7" kkal="118,7">Кофе растворимый</food>
+  <food protein="20" tallow="5,1" carbon="4" kkal="140,9">Чай</food>
+  <food protein="20" tallow="5,1" carbon="6,9" kkal="151,8">Чай черный байховый</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899,1">Абрикосовое масло</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир бараний</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897">Жир бараний топленый</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир бараний, сырец</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир говяжий</food>
+  <food protein="0" tallow="99,6" carbon="0" kkal="896">Жир говяжий топленый</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир говяжий, сырец</food>
+  <food protein="0" tallow="99,8" carbon="0" kkal="898">Жир из печени трески</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897">Жир костный топленый</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир кулинарный</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897">Жир кулинарный «Белорусский»</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897">Жир кулинарный «Восточный»</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897">Жир кулинарный «Новинка»</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897">Жир кулинарный «Украинский»</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир кулинарный, “прима”</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897">Жир куриный</food>
+  <food protein="0" tallow="99,8" carbon="0" kkal="898,2">Жир растительный</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир свиной</food>
+  <food protein="0" tallow="99,6" carbon="0" kkal="896">Жир свиной топленый</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир свиной, сырец</food>
+  <food protein="0" tallow="99,7" carbon="0" kkal="897,3">Жир-сырец курдючный</food>
+  <food protein="0" tallow="99,8" carbon="0" kkal="898,2">Маковое масло</food>
+  <food protein="0,5" tallow="82" carbon="0,7" kkal="743">Маргарин «Здоровье»</food>
+  <food protein="0,5" tallow="82" carbon="1" kkal="744">Маргарин «Экстра»</food>
+  <food protein="0,3" tallow="82" carbon="1" kkal="743">Маргарин молочный столовый</food>
+  <food protein="0,5" tallow="60" carbon="0,7" kkal="545">Маргарин низкокалорийный 60% жирности</food>
+  <food protein="0,3" tallow="82" carbon="1" kkal="743">Маргарин сливочный</food>
+  <food protein="0,5" tallow="82" carbon="1,2" kkal="744,5">Маргарин, “славянский”</food>
+  <food protein="1,2" tallow="62,2" carbon="19,3" kkal="637">Маргарин, “шоколадный”</food>
+  <food protein="0,3" tallow="82" carbon="1" kkal="743">Маргарин, “эра”</food>
+  <food protein="0" tallow="82,5" carbon="0,5" kkal="744,4">Маргарин, безмолочный</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло арахисовое</food>
+  <food protein="0" tallow="99,8" carbon="0" kkal="898">Масло горчичное</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло какао</food>
+  <food protein="0" tallow="99,8" carbon="0" kkal="898">Масло какаовелла</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло канолы</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло кокосовое</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло конопляное</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло кукурузное</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло кунжутное</food>
+  <food protein="0" tallow="99,8" carbon="0" kkal="898">Масло льняное</food>
+  <food protein="0" tallow="99,8" carbon="0" kkal="898">Масло оливковое</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло пальмовое</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло подсолнечное</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло рапсовое</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899">Масло соевое</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899,1">Персиковое масло</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899,1">Сливовое масло</food>
+  <food protein="0,3" tallow="98" carbon="0,6" kkal="885,5">Топленое масло</food>
+  <food protein="0" tallow="99,9" carbon="0" kkal="899,1">Хлопковое масло</food>
+  <food protein="1,4" tallow="92,8" carbon="0" kkal="840,8">Шпик свиной</food>
+  <food protein="1,4" tallow="90" carbon="0" kkal="815,6">Шпик свиной, соленый</food>
+  <food protein="1,3" tallow="61,5" carbon="1,7" kkal="566">Масло сладко-сливочное «Бутербродное»</food>
+  <food protein="0,5" tallow="82,5" carbon="0,8" kkal="748">Масло сладко-сливочное «Вологодское»</food>
+  <food protein="0,5" tallow="82,5" carbon="0,8" kkal="748">Масло сладко-сливочное несоленое</food>
+  <food protein="0,7" tallow="78" carbon="1" kkal="709">Масло сладко-сливочное несоленое «Любительское»</food>
+  <food protein="0,7" tallow="77" carbon="1" kkal="700">Масло сладко-сливочное соленое «Любительское»</food>
+  <food protein="0,8" tallow="72,5" carbon="1,3" kkal="661">Масло сливочное несоленое «Крестьянское»</food>
+  <food protein="0,8" tallow="71,5" carbon="1,3" kkal="647">Масло сливочное соленое «Крестьянское»</food>
+  <food protein="0,5" tallow="82,5" carbon="0,8" kkal="747,5">Масло сливочное, с белком</food>
+  <food protein="0,2" tallow="99" carbon="0" kkal="892">Масло топленое</food>
+  <food protein="6" tallow="0,1" carbon="8,5" kkal="56,8">Бобы</food>
+  <food protein="20,5" tallow="2" carbon="49,5" kkal="298">Горох, зерно</food>
+  <food protein="23" tallow="1,6" carbon="48,1" kkal="299">Горох, лущеный</food>
+  <food protein="5" tallow="0,2" carbon="8,3" kkal="55">Горошек зеленый</food>
+  <food protein="23" tallow="1,2" carbon="53,3" kkal="302,7">Горошек зеленый быстрозамороженный</food>
+  <food protein="35" tallow="0,4" carbon="40,5" kkal="295,5">Горошек зеленый сушеный</food>
+  <food protein="24,6" tallow="1,4" carbon="52,7" kkal="308,6">Маш</food>
+  <food protein="20,1" tallow="5" carbon="54,2" kkal="328,6">Нут</food>
+  <food protein="34,9" tallow="17,3" carbon="17,3" kkal="364">Соя, зерно</food>
+  <food protein="2,5" tallow="0,3" carbon="3" kkal="23">Фасоль (стручок)</food>
+  <food protein="21" tallow="2" carbon="47" kkal="298">Фасоль, зерно</food>
+  <food protein="24" tallow="1,5" carbon="46,3" kkal="295">Чечевица, зерно</food>
+  <food protein="24,4" tallow="0,9" carbon="52,1" kkal="303,9">Чина</food>
+  <food protein="10,8" tallow="3,2" carbon="56" kkal="296">Гречиха, зерно продовольственное</food>
+  <food protein="11,8" tallow="2,2" carbon="59,5" kkal="305">Зерно мягкой пшеницы</food>
+  <food protein="13" tallow="2,5" carbon="57,5" kkal="304">Зерно твердой пшеницы</food>
+  <food protein="10,1" tallow="5,9" carbon="66,4" kkal="342,5">Кукуруза, восковидная</food>
+  <food protein="6,3" tallow="5,8" carbon="67,3" kkal="329,8">Кукуруза, высоколизиновая</food>
+  <food protein="10,3" tallow="4,9" carbon="60" kkal="325">Кукуруза, зерно продовольственное</food>
+  <food protein="9,3" tallow="4" carbon="69,4" kkal="333,5">Кукуруза, зубовидная</food>
+  <food protein="9,4" tallow="4,8" carbon="69,2" kkal="340,3">Кукуруза, крахмалистая</food>
+  <food protein="9,2" tallow="4,2" carbon="69,2" kkal="334,1">Кукуруза, кремнистая</food>
+  <food protein="11,7" tallow="4,3" carbon="66,9" kkal="336,4">Кукуруза, лопающаяся</food>
+  <food protein="11,9" tallow="6,5" carbon="63,6" kkal="344,6">Кукуруза, сахарная</food>
+  <food protein="10,3" tallow="4,9" carbon="67,5" kkal="338,4">Кукуруза, сахарная консервированная</food>
+  <food protein="10,3" tallow="4,9" carbon="67,5" kkal="338,4">Кукуруза, свежая в початках молочной спелости</food>
+  <food protein="10" tallow="6,2" carbon="55,1" kkal="316">Овес, зерно продовольственное</food>
+  <food protein="11,2" tallow="3,9" carbon="54,6" kkal="298">Просо, зерно продовольственное</food>
+  <food protein="7,5" tallow="2,6" carbon="62,3" kkal="303">Рис, зерно продовольственное</food>
+  <food protein="7,9" tallow="1,7" carbon="68,7" kkal="322">Рожь молотая жареная</food>
+  <food protein="9,9" tallow="2,2" carbon="55,8" kkal="283">Рожь, зерно продовольственное</food>
+  <food protein="11,1" tallow="3,3" carbon="66,4" kkal="323,1">Сорго</food>
+  <food protein="12,8" tallow="2,1" carbon="54,5" kkal="293">Тритикале</food>
+  <food protein="10,3" tallow="2,4" carbon="56,4" kkal="288">Ячмень, зерно продовольственное</food>
+  <food protein="9,5" tallow="2,3" carbon="60,4" kkal="300">Гречневая крупа продел</food>
+  <food protein="12,6" tallow="3,3" carbon="57,1" kkal="308">Гречневая крупа ядрица</food>
+  <food protein="15,9" tallow="0,6" carbon="68" kkal="324">Крупа “здоровье”</food>
+  <food protein="17,7" tallow="2,2" carbon="64,1" kkal="331">Крупа “пионерская”</food>
+  <food protein="21,2" tallow="2" carbon="59,3" kkal="325,2">Крупа “сильная”</food>
+  <food protein="18,7" tallow="5,4" carbon="62" kkal="355,9">Крупа “спортивная”</food>
+  <food protein="11,5" tallow="2,1" carbon="69,3" kkal="324,8">Крупа “флотская”</food>
+  <food protein="13,3" tallow="3,1" carbon="66,6" kkal="330,9">Крупа “южная”</food>
+  <food protein="10,3" tallow="1" carbon="70,6" kkal="333">Крупа манная</food>
+  <food protein="12,3" tallow="6,1" carbon="59,5" kkal="342">Крупа овсяная</food>
+  <food protein="9,3" tallow="1,1" carbon="66,9" kkal="315">Крупа перловая</food>
+  <food protein="11,5" tallow="3,3" carbon="66,5" kkal="342">Крупа пшено шлифованное</food>
+  <food protein="7" tallow="1" carbon="74" kkal="333">Крупа рисовая</food>
+  <food protein="10" tallow="1,3" carbon="65,4" kkal="313">Крупа ячневая</food>
+  <food protein="8,3" tallow="1,2" carbon="71" kkal="328">Кукурузная крупа</food>
+  <food protein="8,3" tallow="1,2" carbon="75" kkal="325,3">Кукурузные хлопья</food>
+  <food protein="12,3" tallow="6,2" carbon="61,8" kkal="352">Овсяные хлопья “геркулес”</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Пшеничная крупа</food>
+  <food protein="11" tallow="1,2" carbon="68,5" kkal="329">Пшеничная крупа, “артек”</food>
+  <food protein="11,5" tallow="1,3" carbon="67,9" kkal="329">Пшеничная крупа, “полтавская”</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Пшеничные хлопья</food>
+  <food protein="12,5" tallow="6" carbon="64,9" kkal="363">Толокно</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Ацидофильная паста сублимационной сушки</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Йогурт сублимационной сушки</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Йогурт сублимационной сушки, плодово-ягодный</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Йогурт сублимационной сушки, сладкий</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Каймак (масло консервное)</food>
+  <food protein="8,2" tallow="7,5" carbon="51,6" kkal="321">Какао со сгущенным молоком и сахаром</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Какао со сгущенными сливками</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Кофе со сгущенным молоком</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Кофе со сгущенными сливками</food>
+  <food protein="7,4" tallow="2,5" carbon="54,6" kkal="271">Молоко «Дружба» сгущенное с сахаром</food>
+  <food protein="7,2" tallow="8,5" carbon="55,5" kkal="328">Молоко сгущенное с сахаром 8,5% жирности</food>
+  <food protein="7,1" tallow="5" carbon="55,2" kkal="295">Молоко сгущенное с сахаром, 5,0% жирности</food>
+  <food protein="6,4" tallow="7,8" carbon="10,3" kkal="138">Молоко сгущенное стерилизованное 7,8% жирности</food>
+  <food protein="7,4" tallow="0,2" carbon="57,1" kkal="261">Молоко сгущеное, с сахаром, “славянское”</food>
+  <food protein="7,5" tallow="0,2" carbon="56,8" kkal="259">Молоко сгущеное, с сахаром, нежирное</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Молоко сгущеное, стерилизованное отборное</food>
+  <food protein="6,6" tallow="0,2" carbon="10,8" kkal="71">Молоко сгущеное, стерилизованное, нежирное</food>
+  <food protein="28,5" tallow="15" carbon="44,7" kkal="432">Молоко сухое «Смоленское», 15,0% жирности</food>
+  <food protein="24,2" tallow="25" carbon="39,3" kkal="483">Молоко сухое цельное, 25,0% жирности</food>
+  <food protein="24,2" tallow="25" carbon="39,3" kkal="469,2">Молоко сухое, 25% жирности</food>
+  <food protein="33,2" tallow="1" carbon="52,6" kkal="362">Молоко сухое, обезжиренное в герметичной упаковке</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Простокваша сублимационной сушки</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Сливки сгущенные</food>
+  <food protein="8" tallow="19" carbon="47" kkal="392">Сливки сгущенные с сахаром, 19,0% жирности</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Сливки сгущенные, с сахаром</food>
+  <food protein="19" tallow="42" carbon="30,2" kkal="577">Сливки сухие 42,0% жирности</food>
+  <food protein="19" tallow="42" carbon="30,2" kkal="567,3">Сливки сухие, высокожирные</food>
+  <food protein="19" tallow="42" carbon="30,2" kkal="567,3">Сливки сухие, с какао</food>
+  <food protein="19" tallow="42" carbon="30,2" kkal="567,3">Сливки сухие, с кофе</food>
+  <food protein="19" tallow="42" carbon="30,2" kkal="567,3">Сливки сухие, с сахаром</food>
+  <food protein="12" tallow="1,1" carbon="73,3" kkal="332,8">Сыворотка сухая</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Казенат натрия</food>
+  <food protein="3" tallow="5" carbon="4,8" kkal="75,1">Казецит</food>
+  <food protein="3,2" tallow="3,5" carbon="21,3" kkal="124,2">Морожение “ленинградское”</food>
+  <food protein="3,2" tallow="2,8" carbon="21,2" kkal="124">Морожение молочное с плодами и ягодами</food>
+  <food protein="3,2" tallow="8" carbon="20,1" kkal="166">Морожение сливочное с плодами и ягодами</food>
+  <food protein="3,2" tallow="3,5" carbon="21,3" kkal="124,2">Мороженое</food>
+  <food protein="3,7" tallow="3,5" carbon="21,3" kkal="132">Мороженое, молочное</food>
+  <food protein="3,2" tallow="2,8" carbon="21,2" kkal="117,5">Мороженое, молочное, клубничное</food>
+  <food protein="3,7" tallow="3,5" carbon="22,9" kkal="138">Мороженое, молочное, крем-брюле</food>
+  <food protein="3,7" tallow="3,5" carbon="21,3" kkal="126,2">Мороженое, молочное, ореховое</food>
+  <food protein="3,2" tallow="15" carbon="20,6" kkal="231">Мороженое, молочное, с шоколадной глазурью</food>
+  <food protein="3,6" tallow="3,7" carbon="21,2" kkal="133">Мороженое, молочное, шоколадное</food>
+  <food protein="3,7" tallow="15" carbon="20,4" kkal="232">Мороженое, пломбир</food>
+  <food protein="3,2" tallow="24" carbon="20,1" kkal="310">Мороженое, пломбир, в шоколадной глазури</food>
+  <food protein="3,2" tallow="12" carbon="21,1" kkal="206">Мороженое, пломбир, клубничный</food>
+  <food protein="3,7" tallow="15" carbon="22,4" kkal="240">Мороженое, пломбир, крем-брюле</food>
+  <food protein="3,7" tallow="15" carbon="20,3" kkal="225,9">Мороженое, пломбир, ореховый</food>
+  <food protein="3,6" tallow="15" carbon="20,4" kkal="231">Мороженое, пломбир, шоколадный</food>
+  <food protein="3,7" tallow="10" carbon="19,4" kkal="183">Мороженое, сливочное</food>
+  <food protein="3,2" tallow="8" carbon="20,2" kkal="160,6">Мороженое, сливочное, клубничное</food>
+  <food protein="3,7" tallow="10" carbon="21,4" kkal="191">Мороженое, сливочное, крем-брюле</food>
+  <food protein="3,7" tallow="10" carbon="19,4" kkal="177,6">Мороженое, сливочное, ореховое</food>
+  <food protein="3,2" tallow="20" carbon="19,4" kkal="271">Мороженое, сливочное, с шоколадной глазурью</food>
+  <food protein="3,6" tallow="10" carbon="20" kkal="185">Мороженое, сливочное, шоколадное</food>
+  <food protein="3,2" tallow="3,5" carbon="21,3" kkal="124,2">Эскимо</food>
+  <food protein="2,9" tallow="3,2" carbon="3,8" kkal="59">Ацидофилин 3,2% жирности</food>
+  <food protein="2,8" tallow="3,2" carbon="8,6" kkal="77">Ацидофилин сладкий 3,2% жирности</food>
+  <food protein="3" tallow="1" carbon="4" kkal="40">Ацидофилин, 1%</food>
+  <food protein="3" tallow="0,05" carbon="3,9" kkal="31">Ацидофилин, нежирный</food>
+  <food protein="2,9" tallow="2,5" carbon="4,1" kkal="53">Варенец 2,5% жирности</food>
+  <food protein="4,1" tallow="1,5" carbon="5,9" kkal="57">Йогурт 1,5% жирности</food>
+  <food protein="5" tallow="3,2" carbon="3,5" kkal="68">Йогурт 3,2% жирности</food>
+  <food protein="5" tallow="6" carbon="3,5" kkal="92">Йогурт 6,0% жирности</food>
+  <food protein="4" tallow="1,5" carbon="14,3" kkal="90">Йогурт плодово-ягодный, 1,5% жирности</food>
+  <food protein="5" tallow="3,2" carbon="8,5" kkal="87">Йогурт сладкий 3,2% жирности</food>
+  <food protein="5" tallow="6" carbon="8,5" kkal="112">Йогурт сладкий 6,0% жирности</food>
+  <food protein="4,1" tallow="1,5" carbon="5,9" kkal="52">Йогурт, 1,5%, сладкий</food>
+  <food protein="3" tallow="1" carbon="4" kkal="40">Кефир 1%</food>
+  <food protein="2,9" tallow="2,5" carbon="4" kkal="53">Кефир 2,5% жирности</food>
+  <food protein="2,9" tallow="3,2" carbon="4" kkal="59">Кефир 3,2% жирности</food>
+  <food protein="3" tallow="0,05" carbon="4" kkal="31">Кефир, нежирный</food>
+  <food protein="3" tallow="1" carbon="4" kkal="36">Кефир, таллинский 1%</food>
+  <food protein="11" tallow="5" carbon="19,2" kkal="167">Крем творожный с ванилином 5,0% жирности</food>
+  <food protein="2,1" tallow="1,9" carbon="5" kkal="50">Кумыс из кобыльего молока</food>
+  <food protein="2,1" tallow="1,9" carbon="5" kkal="44,3">Кумыс коровий</food>
+  <food protein="3" tallow="0,05" carbon="6,3" kkal="41">Кумыс коровий, нежирный</food>
+  <food protein="12" tallow="16,5" carbon="9,5" kkal="232,1">Масса творожная</food>
+  <food protein="11,5" tallow="20" carbon="14,5" kkal="287">Масса творожная сладкая «Московская», с ванилином 20,0% жирности</food>
+  <food protein="7,1" tallow="23" carbon="27,1" kkal="345">Масса творожная сладкая «Особая» с изюмом, 23,0% жирности</food>
+  <food protein="2,2" tallow="1" carbon="5,8" kkal="39,5">Молоко кобылье</food>
+  <food protein="3" tallow="4,2" carbon="4,5" kkal="66,7">Молоко козье</food>
+  <food protein="2,9" tallow="3,2" carbon="4,7" kkal="58">Молоко коровье, ацидофильное дрожжевое 3,2%</food>
+  <food protein="4,3" tallow="1" carbon="6,4" kkal="52">Молоко коровье, белковое 1%</food>
+  <food protein="3" tallow="0,05" carbon="4,9" kkal="30,8">Молоко коровье, обезжиренное 0,5%</food>
+  <food protein="2,9" tallow="3,2" carbon="4,7" kkal="58">Молоко коровье, с какао 3,2%</food>
+  <food protein="2,9" tallow="3,2" carbon="4,7" kkal="58">Молоко коровье, с кофе 3,2%</food>
+  <food protein="3" tallow="1" carbon="4,8" kkal="40">Молоко коровье, топленое 1%</food>
+  <food protein="3" tallow="6" carbon="4,7" kkal="83,6">Молоко коровье, топленое 6%</food>
+  <food protein="3" tallow="0,05" carbon="5" kkal="32">Молоко коровье, топленое обезжиренное</food>
+  <food protein="5,6" tallow="7,7" carbon="4,8" kkal="109,7">Молоко овечье</food>
+  <food protein="2,9" tallow="3,2" carbon="4,7" kkal="60">Молоко пастеризованное 3,2% жирности</food>
+  <food protein="2,9" tallow="3,5" carbon="4,7" kkal="62">Молоко пастеризованное 3,5% жирности</food>
+  <food protein="3" tallow="0,05" carbon="4,9" kkal="32">Молоко пастеризованное нежирное</food>
+  <food protein="3" tallow="1,5" carbon="4,8" kkal="45">Молоко пастеризованное, 1,5% жирности</food>
+  <food protein="2,9" tallow="2,5" carbon="4,8" kkal="54">Молоко пастеризованное, 2,5% жирности</food>
+  <food protein="3" tallow="3,2" carbon="4,7" kkal="60">Молоко стерилизованное 3,2% жирности</food>
+  <food protein="3" tallow="3,5" carbon="4,7" kkal="63">Молоко стерилизованное 3,5% жирности</food>
+  <food protein="2,9" tallow="3" carbon="4,7" kkal="58">Молоко стерилизованное, «Можайское» 3,0% жирности</food>
+  <food protein="3" tallow="1,5" carbon="4,8" kkal="45">Молоко стерилизованное, 1,5% жирности</food>
+  <food protein="2,9" tallow="2,5" carbon="4,8" kkal="54">Молоко стерилизованное, 2,5% жирности</food>
+  <food protein="2,9" tallow="4" carbon="4,7" kkal="67">Молоко топленое 4,0% жирности</food>
+  <food protein="2,7" tallow="2,5" carbon="10,8" kkal="79">Напиток «Снежок» 2,5% жирности</food>
+  <food protein="2,9" tallow="2,5" carbon="4,1" kkal="53">Напиток «Юбилейный», 2,5% жирности</food>
+  <food protein="2,6" tallow="2,5" carbon="12,2" kkal="84">Напиток «Юбилейный», плодово-ягодный, 2,5% жирности</food>
+  <food protein="3" tallow="3,6" carbon="4,8" kkal="62,5">Напиток кисломолочный, “южный”</food>
+  <food protein="3,4" tallow="2,5" carbon="5,5" kkal="61">Напиток кисломолочный, «Бифидин» 2,5% жирности</food>
+  <food protein="2,7" tallow="1" carbon="12,2" kkal="71">Напиток плодово-ягодный, 1,0% жирности</food>
+  <food protein="3" tallow="3,6" carbon="4,8" kkal="62,5">Напиток сливочный, с какао</food>
+  <food protein="3" tallow="3,6" carbon="4,8" kkal="62,5">Напиток сливочный, с кофе</food>
+  <food protein="3" tallow="3,6" carbon="4,8" kkal="62,5">Напиток сливочный, сладкий</food>
+  <food protein="5,5" tallow="4" carbon="20,5" kkal="143">Паста ацидофильная 4,0% жирности</food>
+  <food protein="6,6" tallow="8" carbon="25,5" kkal="203">Паста ацидофильная, сладкая 8,0% жирности</food>
+  <food protein="11" tallow="0,2" carbon="2" kkal="53,3">Паста молочная, “здоровье” 5%</food>
+  <food protein="11" tallow="0,2" carbon="2" kkal="53,3">Паста молочная, “здоровье” нежирная</food>
+  <food protein="5,5" tallow="0,2" carbon="13,5" kkal="81">Паста молочная, ацидофильная сладкая нежирная</food>
+  <food protein="3" tallow="3,6" carbon="4,8" kkal="62,5">Пахта “идеал”</food>
+  <food protein="3,3" tallow="1" carbon="4,7" kkal="41">Пахта “идеал”, пастеризованная</food>
+  <food protein="3,3" tallow="1" carbon="3,8" kkal="40">Пахта “идеал”, сквашенная</food>
+  <food protein="2,9" tallow="2,5" carbon="4,1" kkal="53">Продукт кисломолочный «Тонус» 2,5% жирности</food>
+  <food protein="2,8" tallow="4" carbon="4,1" kkal="66">Простокваша «Мечниковская» 4,0% жирности</food>
+  <food protein="2,6" tallow="2,5" carbon="10,1" kkal="76">Простокваша «Цитрусовая» 2,5% жирности</food>
+  <food protein="2,9" tallow="2,5" carbon="4,1" kkal="53">Простокваша 2,5% жирности</food>
+  <food protein="2,9" tallow="3,2" carbon="4,1" kkal="59">Простокваша 3,2% жирности</food>
+  <food protein="3" tallow="1" carbon="4,1" kkal="40">Простокваша, 1%</food>
+  <food protein="3" tallow="0,05" carbon="3,8" kkal="30">Простокваша, нежирная</food>
+  <food protein="2,7" tallow="1" carbon="10,1" kkal="63">Простокваша, цитрусовая 1%</food>
+  <food protein="2,9" tallow="2,5" carbon="4,2" kkal="54">Ряженка 2,5% жирности</food>
+  <food protein="2,8" tallow="4" carbon="4,2" kkal="67">Ряженка 4,0% жирности</food>
+  <food protein="3" tallow="6" carbon="4,1" kkal="85">Ряженка 6,0% жирности</food>
+  <food protein="3" tallow="1" carbon="4,2" kkal="40">Ряженка, 1%</food>
+  <food protein="2,7" tallow="10" carbon="4,5" kkal="119">Сливки пастеризованные 10,0% жирности</food>
+  <food protein="2,5" tallow="20" carbon="4" kkal="207">Сливки пастеризованные 20,0% жирности</food>
+  <food protein="2,2" tallow="35" carbon="3,2" kkal="337">Сливки пастеризованные 35,0% жирности</food>
+  <food protein="2,8" tallow="8" carbon="4,5" kkal="102">Сливки пастеризованные 8,0% жирности</food>
+  <food protein="2,7" tallow="10" carbon="4,4" kkal="119">Сливки стерилизованные 10,0% жирности</food>
+  <food protein="2,4" tallow="25" carbon="3,9" kkal="251">Сливки стерилизованные 25,0% жирности</food>
+  <food protein="2,5" tallow="20" carbon="4" kkal="205">Сливки, 20% жирности</food>
+  <food protein="2,2" tallow="35" carbon="3,2" kkal="335,8">Сливки, 35% жирности</food>
+  <food protein="2,8" tallow="20" carbon="3,7" kkal="205,1">Сливки, взбитые плодово-ягодные</food>
+  <food protein="2,8" tallow="20" carbon="3,7" kkal="205,1">Сливки, взбитые с ванилью</food>
+  <food protein="2,8" tallow="20" carbon="3,7" kkal="205,1">Сливки, взбитые шоколадные</food>
+  <food protein="3,8" tallow="10" carbon="5,6" kkal="130">Сметана «Домашняя» 10,0% жирности</food>
+  <food protein="2,7" tallow="10" carbon="3,9" kkal="119">Сметана 10,0% жирности</food>
+  <food protein="2,6" tallow="15" carbon="3,6" kkal="162">Сметана 15,0% жирности</food>
+  <food protein="2,5" tallow="20" carbon="3,4" kkal="206">Сметана 20,0% жирности</food>
+  <food protein="2,4" tallow="25" carbon="3,2" kkal="250">Сметана 25,0% жирности</food>
+  <food protein="2,3" tallow="30" carbon="3,1" kkal="293">Сметана 30,0% жирности</food>
+  <food protein="2,4" tallow="30" carbon="3,1" kkal="291,2">Сметана, 36% жирности</food>
+  <food protein="2,4" tallow="30" carbon="3,1" kkal="291,2">Сметана, 40% жирности</food>
+  <food protein="3" tallow="3,6" carbon="4,8" kkal="62,5">Сыворотка подсырная</food>
+  <food protein="0,8" tallow="0,2" carbon="3,5" kkal="18,1">Сыворотка творожная</food>
+  <food protein="9,4" tallow="10,9" carbon="33,1" kkal="270">Сырки глазированные с ванилином 10,9% жирности</food>
+  <food protein="7,9" tallow="27,7" carbon="32,6" kkal="413">Сырки глазированные с ванилином 27,7% жирности</food>
+  <food protein="15" tallow="8" carbon="11,5" kkal="181">Сырки и масса творожная «Цитрон» сладкие, 8,0% жирности</food>
+  <food protein="12" tallow="16,5" carbon="9,5" kkal="238">Сырки и масса творожная сладкая с ванилином, 16,5% жирности</food>
+  <food protein="9,1" tallow="23" carbon="18,5" kkal="319">Сырки творожные детские, 23,0% жирности</food>
+  <food protein="12" tallow="16,5" carbon="9,5" kkal="232,1">Сырок творожный, особый</food>
+  <food protein="12" tallow="16,5" carbon="9,5" kkal="232,1">Сырок творожный, славянский</food>
+  <food protein="16,7" tallow="9" carbon="2" kkal="155,3">Творог</food>
+  <food protein="20" tallow="2" carbon="3" kkal="114">Творог «Столовый» 2,0% жирности</food>
+  <food protein="15" tallow="18" carbon="2,8" kkal="236">Творог жирный 18,0% жирности</food>
+  <food protein="16" tallow="11" carbon="3" kkal="178">Творог мягкий диетический 11,0% жирности</food>
+  <food protein="21" tallow="4" carbon="3" kkal="136">Творог мягкий диетический 4,0% жирности</food>
+  <food protein="22" tallow="0,6" carbon="3,3" kkal="110">Творог мягкий диетический, нежирный</food>
+  <food protein="17,3" tallow="4" carbon="13,7" kkal="164">Творог мягкий диетический, плодово-ягодный, 4,0% жирности</food>
+  <food protein="18,2" tallow="0,5" carbon="14" kkal="138">Творог мягкий диетический, плодовоягодный нежирный</food>
+  <food protein="22" tallow="0,6" carbon="3,3" kkal="110">Творог нежирный 0,6%</food>
+  <food protein="18" tallow="9" carbon="3" kkal="169">Творог полужирный 9,0% жирности</food>
+  <food protein="16,7" tallow="9" carbon="2" kkal="155,3">Творог, зерненый со сливками</food>
+  <food protein="15" tallow="50" carbon="0" kkal="510">Буженина</food>
+  <food protein="22,6" tallow="20,9" carbon="0" kkal="278,5">Ветчина в форме</food>
+  <food protein="17,6" tallow="6,2" carbon="0" kkal="126">Ветчина особая</food>
+  <food protein="10" tallow="52,7" carbon="0" kkal="514">Грудинка копчено-запеченная (свинина)</food>
+  <food protein="8,9" tallow="63,3" carbon="0" kkal="605">Грудинка сырокопченая (свинина)</food>
+  <food protein="15" tallow="11,7" carbon="0,2" kkal="165">Колбаса вареная говяжья</food>
+  <food protein="13" tallow="13,9" carbon="2,4" kkal="187">Колбаса вареная для завтрака</food>
+  <food protein="11,5" tallow="27,9" carbon="1,7" kkal="302">Колбаса вареная русская</food>
+  <food protein="12,1" tallow="22,8" carbon="0" kkal="254">Колбаса вареная, диабетическая</food>
+  <food protein="12,1" tallow="13,5" carbon="0" kkal="170">Колбаса вареная, диетическая</food>
+  <food protein="12,8" tallow="22,2" carbon="1,5" kkal="257">Колбаса вареная, докторская</food>
+  <food protein="17,2" tallow="12,1" carbon="2,2" kkal="187">Колбаса вареная, зеленоградская (с мясом утки)</food>
+  <food protein="12,2" tallow="28" carbon="0,1" kkal="301">Колбаса вареная, любительская</food>
+  <food protein="12,5" tallow="29,1" carbon="0" kkal="311,9">Колбаса вареная, любительская свиная</food>
+  <food protein="11,7" tallow="22,8" carbon="0,2" kkal="252">Колбаса вареная, молочная</food>
+  <food protein="11" tallow="21" carbon="1,7" kkal="240">Колбаса вареная, отдельная</food>
+  <food protein="17,2" tallow="11,6" carbon="1,7" kkal="180">Колбаса вареная, подмосковная (с куриным мясом)</food>
+  <food protein="10,8" tallow="25,8" carbon="0,5" kkal="277">Колбаса вареная, свиная</food>
+  <food protein="11,1" tallow="20,2" carbon="1,8" kkal="234">Колбаса вареная, столовая</food>
+  <food protein="13,2" tallow="28,3" carbon="0,3" kkal="308">Колбаса вареная, телячья</food>
+  <food protein="11,7" tallow="18,4" carbon="1,7" kkal="216">Колбаса вареная, чайная</food>
+  <food protein="20" tallow="30" carbon="0" kkal="350">Колбаса варено-копченая</food>
+  <food protein="19,1" tallow="36,6" carbon="0,2" kkal="406">Колбаса варено-копченая московская</food>
+  <food protein="17,2" tallow="39" carbon="0,2" kkal="420">Колбаса варено-копченая, любительская</food>
+  <food protein="14,8" tallow="38,1" carbon="0,3" kkal="402">Колбаса полукопченая одесская</food>
+  <food protein="15,1" tallow="40,1" carbon="0,3" kkal="423">Колбаса полукопченая, армавирская</food>
+  <food protein="16,2" tallow="44,6" carbon="0" kkal="466,2">Колбаса полукопченая, краковская</food>
+  <food protein="23" tallow="17,4" carbon="2,7" kkal="258,7">Колбаса полукопченая, минская</food>
+  <food protein="16,4" tallow="39" carbon="0" kkal="416,6">Колбаса полукопченая, полтавская</food>
+  <food protein="17,1" tallow="33,8" carbon="0,2" kkal="373">Колбаса полукопченая, таллинская</food>
+  <food protein="16,5" tallow="34,4" carbon="0" kkal="375,6">Колбаса полукопченая, украинская</food>
+  <food protein="17" tallow="47,7" carbon="0,4" kkal="498">Колбаса сырокопченая дорожная</food>
+  <food protein="9,9" tallow="62,8" carbon="0,3" kkal="606">Колбаса сырокопченая зернистая</food>
+  <food protein="21,1" tallow="39,1" carbon="0,4" kkal="436">Колбаса сырокопченая олимпийская</food>
+  <food protein="13" tallow="57" carbon="0,2" kkal="566">Колбаса сырокопченая свиная</food>
+  <food protein="27,7" tallow="42,2" carbon="0,2" kkal="491">Колбаса сырокопченая, брауншвейгская</food>
+  <food protein="20,9" tallow="47,8" carbon="0" kkal="513,8">Колбаса сырокопченая, любительская</food>
+  <food protein="24,8" tallow="41,5" carbon="0" kkal="472,7">Колбаса сырокопченая, московская</food>
+  <food protein="24" tallow="43,4" carbon="0" kkal="486,6">Колбаса сырокопченая, столичная</food>
+  <food protein="10,2" tallow="48,2" carbon="0" kkal="475">Корейка копчено-запеченная (свинина)</food>
+  <food protein="10,5" tallow="47,4" carbon="0" kkal="469">Корейка сырокопченая (свинина)</food>
+  <food protein="12,9" tallow="21,8" carbon="1,9" kkal="256">Мясной хлеб ветчинный</food>
+  <food protein="10,5" tallow="23,9" carbon="1,4" kkal="263">Мясной хлеб говяжий</food>
+  <food protein="12" tallow="21" carbon="2,1" kkal="246">Мясной хлеб отдельный</food>
+  <food protein="15" tallow="50" carbon="0" kkal="510">Окорок варено-копчёный</food>
+  <food protein="14,3" tallow="25,6" carbon="0" kkal="288">Окорок тамбовский вареный</food>
+  <food protein="25,3" tallow="40" carbon="0,3" kkal="463">Охотничьи колбаски</food>
+  <food protein="24" tallow="40,5" carbon="0,2" kkal="461">Сервелат *</food>
+  <food protein="17,4" tallow="13,4" carbon="0,2" kkal="191">Баранина тушеная</food>
+  <food protein="15,4" tallow="16,9" carbon="0" kkal="214">Говядина отварная в собственном соку</food>
+  <food protein="16,8" tallow="17" carbon="0,2" kkal="220">Говядина тушеная</food>
+  <food protein="14,2" tallow="15,6" carbon="3,9" kkal="213">Гуляш бараний</food>
+  <food protein="16,8" tallow="14,3" carbon="3,9" kkal="212">Гуляш говяжий</food>
+  <food protein="13,1" tallow="29,4" carbon="3,9" kkal="333">Гуляш свиной</food>
+  <food protein="18" tallow="15,2" carbon="0,2" kkal="210">Завтрак туриста (баранина)</food>
+  <food protein="20,5" tallow="14,9" carbon="0,2" kkal="217">Завтрак туриста (говядина)</food>
+  <food protein="16,9" tallow="31" carbon="0,2" kkal="347">Завтрак туриста (свинина)</food>
+  <food protein="15,2" tallow="15,7" carbon="2,8" kkal="212,6">Колбасный фарш ветчиннорубленный</food>
+  <food protein="12,3" tallow="32,4" carbon="2,9" kkal="351,7">Колбасный фарш любительский</food>
+  <food protein="13,6" tallow="23,7" carbon="2,9" kkal="278,6">Колбасный фарш отдельный</food>
+  <food protein="19,3" tallow="17,2" carbon="0,5" kkal="233,9">Конина тушеная</food>
+  <food protein="18" tallow="16" carbon="0" kkal="216">Консервы мясные</food>
+  <food protein="23,2" tallow="9,9" carbon="0,4" kkal="183">Курица в собственном соку</food>
+  <food protein="18" tallow="12,8" carbon="3,8" kkal="201,4">Мясо в белом соусе</food>
+  <food protein="18" tallow="14,8" carbon="3,6" kkal="220">Мясо в белом соусе (говядина)</food>
+  <food protein="19,3" tallow="10,4" carbon="0" kkal="170,8">Оленина тушеная</food>
+  <food protein="16,1" tallow="23,3" carbon="0,4" kkal="275">Паштет мясной (говяжий)</food>
+  <food protein="11,6" tallow="28,1" carbon="3,4" kkal="301">Паштет печеночный</food>
+  <food protein="11,5" tallow="48,9" carbon="0" kkal="486">Свинина жирная</food>
+  <food protein="14,9" tallow="32,2" carbon="0,2" kkal="349">Свинина тушеная</food>
+  <food protein="18,2" tallow="18,4" carbon="0,7" kkal="241">Субпродукты (головы, ноги, крылья, желудки, шеи)</food>
+  <food protein="16" tallow="17,5" carbon="0,3" kkal="223">Утка в собственном соку</food>
+  <food protein="15" tallow="15,6" carbon="0" kkal="200">Фарш колбасный куриный</food>
+  <food protein="10,6" tallow="20,4" carbon="4,3" kkal="244">Фарш свиной сосисочный</food>
+  <food protein="22,4" tallow="13,6" carbon="2,4" kkal="212">Язык говяжий в желе</food>
+  <food protein="14" tallow="25,8" carbon="0" kkal="288">Баранина, грудинка мякоть</food>
+  <food protein="15,9" tallow="21,5" carbon="0" kkal="255">Баранина, корейка мякоть</food>
+  <food protein="16" tallow="19,3" carbon="0" kkal="238">Баранина, котлетное мясо</food>
+  <food protein="16,1" tallow="14,9" carbon="0" kkal="199">Баранина, лопаточная часть</food>
+  <food protein="17,6" tallow="14,9" carbon="0" kkal="204,5">Баранина, пашина</food>
+  <food protein="16,5" tallow="20,9" carbon="0" kkal="254,1">Баранина, спинная часть</food>
+  <food protein="17" tallow="14,4" carbon="0" kkal="198">Баранина, тазобедренная часть</food>
+  <food protein="15,4" tallow="16,3" carbon="0" kkal="208,3">Баранина, шейная часть</food>
+  <food protein="18,6" tallow="16" carbon="0" kkal="218,4">Говядина, вырезка</food>
+  <food protein="17" tallow="17,4" carbon="0" kkal="224,6">Говядина, грудинка (мякоть)</food>
+  <food protein="18,6" tallow="16" carbon="0" kkal="218,4">Говядина, котлетное мясо</food>
+  <food protein="19,4" tallow="6,6" carbon="0" kkal="137">Говядина, лопаточная часть (заплечная)</food>
+  <food protein="19,4" tallow="6,6" carbon="0" kkal="137">Говядина, лопаточная часть (плечевая)</food>
+  <food protein="18,9" tallow="16,6" carbon="0" kkal="225">Говядина, пашина</food>
+  <food protein="19,4" tallow="6,6" carbon="0" kkal="137">Говядина, подлопаточная часть</food>
+  <food protein="18,6" tallow="16" carbon="0" kkal="218,4">Говядина, покромка</food>
+  <food protein="19,9" tallow="9,6" carbon="0" kkal="166">Говядина, поясничная часть (тонкий край)</food>
+  <food protein="19,8" tallow="8,6" carbon="0" kkal="156,6">Говядина, спинная часть (толстый край)</food>
+  <food protein="20,2" tallow="6,4" carbon="0" kkal="138,4">Говядина, тазобедренная часть (боковой кусок)</food>
+  <food protein="20,2" tallow="6,4" carbon="0" kkal="138,4">Говядина, тазобедренная часть (внутренний кусок)</food>
+  <food protein="20,2" tallow="6,4" carbon="0" kkal="138,4">Говядина, тазобедренная часть(верхний кусок)</food>
+  <food protein="20,2" tallow="6,4" carbon="0" kkal="138,4">Говядина, тазобедренная часть(наружный кусок)</food>
+  <food protein="19,4" tallow="6,4" carbon="0" kkal="135,2">Говядина, шейная часть</food>
+  <food protein="19,4" tallow="7,1" carbon="0" kkal="142">Свинина, вырезка</food>
+  <food protein="8" tallow="63,3" carbon="0" kkal="602">Свинина, грудинка мякоть</food>
+  <food protein="15" tallow="30,3" carbon="0" kkal="332,7">Свинина, жирная, окорок</food>
+  <food protein="13,7" tallow="36,5" carbon="0" kkal="384">Свинина, корейка мякоть</food>
+  <food protein="11,4" tallow="41,7" carbon="0" kkal="421">Свинина, котлетное мясо</food>
+  <food protein="14,7" tallow="29,4" carbon="0" kkal="365,5">Свинина, лопаточная часть</food>
+  <food protein="15" tallow="27,2" carbon="0" kkal="305">Свинина, тазобедренная часть</food>
+  <food protein="13,6" tallow="31,9" carbon="0" kkal="343">Свинина, шейная часть (мякоть)</food>
+  <food protein="19,7" tallow="2" carbon="0" kkal="96,8">Телятина молочная</food>
+  <food protein="19,5" tallow="1,2" carbon="0" kkal="88,8">Телятина, грудная часть</food>
+  <food protein="19,7" tallow="2" carbon="0" kkal="96,8">Телятина, котлетное мясо</food>
+  <food protein="19,4" tallow="1,1" carbon="0" kkal="87,5">Телятина, лопаточная часть</food>
+  <food protein="19,5" tallow="1,2" carbon="0" kkal="88,8">Телятина, пашина</food>
+  <food protein="19,6" tallow="1,3" carbon="0" kkal="90,1">Телятина, подплечный край</food>
+  <food protein="19,7" tallow="2" carbon="0" kkal="96,8">Телятина, порционный кусок с косточкой</food>
+  <food protein="19,8" tallow="1,2" carbon="0" kkal="90">Телятина, поясничная часть</food>
+  <food protein="19,8" tallow="1,2" carbon="0" kkal="90">Телятина, спинная часть</food>
+  <food protein="19,4" tallow="1,2" carbon="0" kkal="88,4">Телятина, тазобедренная часть</food>
+  <food protein="20,5" tallow="1,2" carbon="0" kkal="92,8">Телятина, шейная часть</food>
+  <food protein="16,3" tallow="15,3" carbon="0" kkal="202,9">Баранина</food>
+  <food protein="15,6" tallow="16,3" carbon="0" kkal="209">Баранина 1 кат.</food>
+  <food protein="19,8" tallow="9,6" carbon="0" kkal="166">Баранина 2 кат.</food>
+  <food protein="19" tallow="13,2" carbon="0" kkal="194,8">Буйволятина</food>
+  <food protein="19" tallow="13,2" carbon="0" kkal="194,8">Буйволятина, 1 категории</food>
+  <food protein="20,8" tallow="5,8" carbon="0" kkal="135,4">Буйволятина, 2 категории</food>
+  <food protein="18,9" tallow="9,4" carbon="0" kkal="160,2">Верблюжатина</food>
+  <food protein="18,6" tallow="16" carbon="0" kkal="218">Говядина 1 кат.</food>
+  <food protein="20" tallow="9,8" carbon="0" kkal="168">Говядина 2 кат.</food>
+  <food protein="18" tallow="16" carbon="0" kkal="216">Козлятина</food>
+  <food protein="19,5" tallow="9,9" carbon="0" kkal="167,1">Конина</food>
+  <food protein="19,5" tallow="9,9" carbon="0" kkal="167">Конина 1 кат.</food>
+  <food protein="20,9" tallow="4,1" carbon="0" kkal="121">Конина 2 кат.</food>
+  <food protein="21,1" tallow="6" carbon="0" kkal="138,4">Мясо косули</food>
+  <food protein="21,2" tallow="11" carbon="0" kkal="183">Мясо кролика</food>
+  <food protein="21,4" tallow="1,7" carbon="0" kkal="100,9">Мясо лося</food>
+  <food protein="21,2" tallow="13,7" carbon="0" kkal="208,1">Мясо сайгака</food>
+  <food protein="20" tallow="3,5" carbon="0" kkal="111,5">Мясо яка</food>
+  <food protein="16,2" tallow="14,1" carbon="0" kkal="191,7">Мясо, ягнятина</food>
+  <food protein="19,5" tallow="8,5" carbon="0" kkal="154,5">Оленина</food>
+  <food protein="19,5" tallow="8,5" carbon="0" kkal="155">Оленина 1 кат.</food>
+  <food protein="21" tallow="4,5" carbon="0" kkal="124,5">Оленина, 2 категории</food>
+  <food protein="20,6" tallow="3" carbon="0" kkal="109">Поросятина</food>
+  <food protein="17" tallow="27,8" carbon="0" kkal="318">Свинина беконная</food>
+  <food protein="11,7" tallow="49,3" carbon="0" kkal="491">Свинина жирная</food>
+  <food protein="14,3" tallow="33,3" carbon="0" kkal="357">Свинина мясная</food>
+  <food protein="19,7" tallow="2" carbon="0" kkal="97">Телятина 1 кат.</food>
+  <food protein="20,4" tallow="0,9" carbon="0" kkal="89">Телятина 2 кат.</food>
+  <food protein="18,7" tallow="16,1" carbon="0" kkal="220">Бройлеры (цыплята) 1 кат.</food>
+  <food protein="19,7" tallow="11,2" carbon="0" kkal="180">Бройлеры (цыплята) 2 кат.</food>
+  <food protein="18" tallow="20" carbon="0,5" kkal="253,9">Глухарь</food>
+  <food protein="15,2" tallow="39" carbon="0" kkal="412">Гуси 1 кат.</food>
+  <food protein="17" tallow="27,7" carbon="0" kkal="317">Гуси 2 кат.</food>
+  <food protein="16,6" tallow="28,8" carbon="0" kkal="325,6">Гусята, 1 категории</food>
+  <food protein="19,1" tallow="14,6" carbon="0" kkal="207,8">Гусята, 2 категории</food>
+  <food protein="19,5" tallow="22" carbon="0" kkal="276">Индейки 1 кат.</food>
+  <food protein="21,6" tallow="12" carbon="0" kkal="194">Индейки 2 кат.</food>
+  <food protein="18,8" tallow="11,7" carbon="0,6" kkal="182,8">Индюшата, 1 категории</food>
+  <food protein="21,7" tallow="5" carbon="0,6" kkal="134,1">Индюшата, 2 категории</food>
+  <food protein="18,2" tallow="18,4" carbon="0,7" kkal="241">Куриная грудка (филе)</food>
+  <food protein="21,3" tallow="11" carbon="0,1" kkal="184,6">Куриный окорочок</food>
+  <food protein="18,2" tallow="18,4" carbon="0" kkal="238">Курица, 1 категории</food>
+  <food protein="21,2" tallow="8,2" carbon="0" kkal="159">Курица, 2 категории</food>
+  <food protein="18,2" tallow="18,4" carbon="0,7" kkal="241">Курица, мякоть без кожи</food>
+  <food protein="18" tallow="20" carbon="0,5" kkal="253,9">Куропатка</food>
+  <food protein="18" tallow="18,6" carbon="0" kkal="239,4">Перепелка</food>
+  <food protein="15,2" tallow="39" carbon="0" kkal="411,8">Печень гусиная</food>
+  <food protein="19,5" tallow="22" carbon="0" kkal="276">Печень индейки</food>
+  <food protein="20,4" tallow="5,9" carbon="1,4" kkal="139,9">Печень куриная</food>
+  <food protein="15,8" tallow="38" carbon="0" kkal="405,2">Печень утиная</food>
+  <food protein="18" tallow="20" carbon="0,5" kkal="253,9">Рябчик</food>
+  <food protein="15,8" tallow="10,3" carbon="0,8" kkal="158,9">Сердце куриное</food>
+  <food protein="18" tallow="20" carbon="0,5" kkal="253,9">Тетерев</food>
+  <food protein="15,8" tallow="38" carbon="0" kkal="405">Утка, 1 категории</food>
+  <food protein="17,2" tallow="24,2" carbon="0" kkal="287">Утка, 2 категории</food>
+  <food protein="16" tallow="27,2" carbon="0" kkal="308,8">Утята, 1 категории</food>
+  <food protein="18" tallow="17" carbon="0" kkal="225">Утята, 2 категории</food>
+  <food protein="18" tallow="20" carbon="0,5" kkal="253,9">Фазан</food>
+  <food protein="18,7" tallow="7" carbon="0,5" kkal="139,7">Цыплята</food>
+  <food protein="10,3" tallow="17,2" carbon="1,5" kkal="202">Сардельки 1 сорта</food>
+  <food protein="11,4" tallow="18,2" carbon="1,3" kkal="215">Сардельки говяжьи</food>
+  <food protein="10,1" tallow="31,6" carbon="1,8" kkal="322">Сардельки свиные</food>
+  <food protein="10,4" tallow="20,1" carbon="0,8" kkal="226">Сосиски говяжьи</food>
+  <food protein="12,2" tallow="20,3" carbon="0,5" kkal="234">Сосиски столичные</food>
+  <food protein="11" tallow="23,9" carbon="0,4" kkal="261">Сосиски, молочные</food>
+  <food protein="11,3" tallow="22" carbon="1,7" kkal="250">Сосиски, русские</food>
+  <food protein="11,8" tallow="30,8" carbon="0" kkal="324,4">Сосиски, свиные</food>
+  <food protein="12,3" tallow="13,7" carbon="0" kkal="172,5">Вымя говяжье</food>
+  <food protein="15" tallow="3" carbon="0" kkal="87">Голова баранья</food>
+  <food protein="18,1" tallow="12,5" carbon="0" kkal="184,9">Голова говяжья</food>
+  <food protein="18" tallow="16" carbon="0" kkal="216">Голова свиная</food>
+  <food protein="15" tallow="5" carbon="0" kkal="105">Губы говяжьи</food>
+  <food protein="15" tallow="5" carbon="0" kkal="105">Кости пищевые говяжьи</food>
+  <food protein="15" tallow="5" carbon="0" kkal="105">Кости пищевые говяжьи, кроме позвоночных</food>
+  <food protein="18" tallow="16" carbon="0" kkal="216">Кости свинокопченостей</food>
+  <food protein="18" tallow="16" carbon="0" kkal="216">Кровь свиная</food>
+  <food protein="83,7" tallow="0" carbon="0" kkal="334,8">Кровь свиная, сухая</food>
+  <food protein="15,2" tallow="4,7" carbon="0" kkal="103,1">Легкие говяжьи</food>
+  <food protein="14,8" tallow="3,6" carbon="0" kkal="91,6">Легкое свиное</food>
+  <food protein="15,6" tallow="2,3" carbon="0" kkal="83,1">Лекгое баранье</food>
+  <food protein="9,7" tallow="9,4" carbon="0" kkal="123,4">Мозги бараньи</food>
+  <food protein="11,7" tallow="8,6" carbon="0,8" kkal="127">Мозги говяжьи</food>
+  <food protein="10,5" tallow="8,6" carbon="0,8" kkal="119">Мозги свинные</food>
+  <food protein="15" tallow="3" carbon="0" kkal="87">Ноги бараньи</food>
+  <food protein="18" tallow="16" carbon="0" kkal="216">Ноги свиные</food>
+  <food protein="18,7" tallow="2,9" carbon="0" kkal="100,9">Печень баранья</food>
+  <food protein="17,9" tallow="3,7" carbon="5,3" kkal="127">Печень говяжья</food>
+  <food protein="18,8" tallow="3,8" carbon="4,7" kkal="109">Печень свиная</food>
+  <food protein="17,4" tallow="3,1" carbon="0" kkal="97,5">Печень телячья</food>
+  <food protein="13,6" tallow="2,5" carbon="0" kkal="76,9">Почки бараньи</food>
+  <food protein="15,2" tallow="2,8" carbon="1,9" kkal="86">Почки говяжьи</food>
+  <food protein="15" tallow="3,6" carbon="2,7" kkal="92">Почки свиные</food>
+  <food protein="12,5" tallow="1,8" carbon="0" kkal="66,2">Почки телячьи</food>
+  <food protein="15" tallow="5" carbon="0" kkal="105">Путовый сустав говяжий</food>
+  <food protein="11,5" tallow="4" carbon="0" kkal="82">Рубец бараний</food>
+  <food protein="14,8" tallow="4,2" carbon="0" kkal="97">Рубец говяжий</food>
+  <food protein="13,5" tallow="3,5" carbon="0" kkal="85,5">Сердце баранье</food>
+  <food protein="16" tallow="3,5" carbon="2" kkal="96">Сердце говяжье</food>
+  <food protein="16,2" tallow="4" carbon="2,6" kkal="101">Сердце свиное</food>
+  <food protein="25,2" tallow="2,3" carbon="0" kkal="121,5">Уши говяжьи</food>
+  <food protein="21" tallow="14,1" carbon="0" kkal="210,9">Уши свиные</food>
+  <food protein="19,7" tallow="6,5" carbon="0" kkal="137,3">Хвост говяжий мясокостный</food>
+  <food protein="18" tallow="16" carbon="0" kkal="216">Шкура свиная</food>
+  <food protein="12,6" tallow="16,1" carbon="0" kkal="195,3">Язык бараний</food>
+  <food protein="16" tallow="12,1" carbon="2,2" kkal="173">Язык говяжий</food>
+  <food protein="15,9" tallow="16" carbon="2,1" kkal="208">Язык свиной</food>
+  <food protein="13,6" tallow="12,1" carbon="0" kkal="163,3">Язык телячий</food>
+  <food protein="25" tallow="45,4" carbon="2,8" kkal="519,1">Абрикос-ядро</food>
+  <food protein="26,3" tallow="45,2" carbon="9,9" kkal="552">Арахис</food>
+  <food protein="21,9" tallow="30,5" carbon="16" kkal="422,1">Вишня-ядро</food>
+  <food protein="25,8" tallow="30,8" carbon="23,4" kkal="474">Горчица-семя</food>
+  <food protein="37,1" tallow="11,1" carbon="32,6" kkal="378">Горчичный порошок</food>
+  <food protein="13,5" tallow="49,4" carbon="13,6" kkal="559">Какао тертое</food>
+  <food protein="12,8" tallow="53,2" carbon="9,4" kkal="565,3">Какао-бобы</food>
+  <food protein="23,7" tallow="60" carbon="20,5" kkal="674">Кедровый орех</food>
+  <food protein="20,1" tallow="32,5" carbon="0" kkal="372,9">Конопля-семя</food>
+  <food protein="19,4" tallow="48,7" carbon="12,2" kkal="565">Кунжут-семя</food>
+  <food protein="13" tallow="62,6" carbon="9,3" kkal="653">Лещина</food>
+  <food protein="17,5" tallow="47,5" carbon="14,5" kkal="556">Мак-семя</food>
+  <food protein="18,6" tallow="53,7" carbon="13" kkal="609">Миндаль</food>
+  <food protein="16,2" tallow="60,8" carbon="11,1" kkal="656">Орех грецкий</food>
+  <food protein="18,5" tallow="48,5" carbon="22,5" kkal="600">Орех кешью</food>
+  <food protein="20" tallow="50" carbon="7" kkal="556,3">Орех мускатный</food>
+  <food protein="20,7" tallow="52,9" carbon="10,5" kkal="601">Подсолнечник-семя</food>
+  <food protein="30,8" tallow="43,6" carbon="7,2" kkal="544">Рапс-семя</food>
+  <food protein="28,5" tallow="40,2" carbon="0" kkal="475,8">Слива-ядро</food>
+  <food protein="20" tallow="50" carbon="7" kkal="556,3">Фисташки</food>
+  <food protein="15" tallow="61,5" carbon="9,4" kkal="651">Фундук</food>
+  <food protein="34,5" tallow="36,5" carbon="8,1" kkal="496,9">Хлопчатник-семя</food>
+  <food protein="26" tallow="52" carbon="13,4" kkal="626">Ядро ореха арахиса жареное</food>
+  <food protein="22,4" tallow="55,9" carbon="12,3" kkal="642">Ядро ореха миндаля жареное</food>
+  <food protein="17,8" tallow="66,1" carbon="9,4" kkal="703">Ядро ореха фундука жареное</food>
+  <food protein="10,4" tallow="1,3" carbon="64,2" kkal="311">Баранки простые</food>
+  <food protein="8,3" tallow="8" carbon="60,4" kkal="348">Баранки сдобные</food>
+  <food protein="7,5" tallow="2,9" carbon="51,4" kkal="262">Батон нарезной</food>
+  <food protein="9,1" tallow="1,1" carbon="57,1" kkal="276">Бублики простые</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Бублики, украинские с маком</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Булка с молочной сывороткой</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Булка черкизовская</food>
+  <food protein="7,6" tallow="5,3" carbon="53,7" kkal="294">Булка ярославская</food>
+  <food protein="7,7" tallow="2,4" carbon="52,9" kkal="265">Булки городские</food>
+  <food protein="7,6" tallow="10" carbon="53,8" kkal="337">Булочка калорийная</food>
+  <food protein="8,8" tallow="2,2" carbon="50,3" kkal="257">Булочки молочные</food>
+  <food protein="7,9" tallow="9,4" carbon="55,5" kkal="339">Булочки сдобные</food>
+  <food protein="8,4" tallow="2,2" carbon="53,7" kkal="269">Булочки столичная с молочной сывороткой</food>
+  <food protein="8,4" tallow="2,2" carbon="53,7" kkal="269">Булочки столичные</food>
+  <food protein="10,3" tallow="1,1" carbon="68,9" kkal="309,5">Клейковина сырая из муки 1 сорта</food>
+  <food protein="9,2" tallow="14,1" carbon="63,2" kkal="416">Крекеры с отрубями</food>
+  <food protein="12,7" tallow="2,4" carbon="67,3" kkal="342">Пластинки из цельно-молотой пшеницы</food>
+  <food protein="8,4" tallow="5,6" carbon="56,8" kkal="312">Рожки к чаю</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Рожки сдобные</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сдоба выборгская с маком</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сдоба выборгская с повидлом</food>
+  <food protein="8,1" tallow="5,3" carbon="54,9" kkal="301">Сдоба обыкновенная</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сдобные изделия</food>
+  <food protein="9,1" tallow="6,1" carbon="69,3" kkal="372">Соломка сладкая</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сухари</food>
+  <food protein="12,3" tallow="2,3" carbon="60,1" kkal="304">Сухари армейские из обойной муки</food>
+  <food protein="11,2" tallow="1,4" carbon="67,5" kkal="330">Сухари армейские, пшеничные 1 сорта</food>
+  <food protein="12,3" tallow="1,9" carbon="63,5" kkal="323">Сухари армейские, пшеничные 2 сорта</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сухари армейские, ржано-пшеничные</food>
+  <food protein="11,3" tallow="2" carbon="56,4" kkal="294">Сухари армейские, ржаные</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сухари ванильные</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сухари пшеничные</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Сухари ржаные</food>
+  <food protein="8,5" tallow="10,8" carbon="66,7" kkal="399">Сухари сливочные</food>
+  <food protein="10,7" tallow="1,2" carbon="71,2" kkal="339">Сушки простые</food>
+  <food protein="10,9" tallow="1,3" carbon="68,8" kkal="331">Сушки простые из муки 1 сорта</food>
+  <food protein="6,8" tallow="1,3" carbon="39,8" kkal="201">Хлеб бородинский (мука ржаная обойная и пшеничная 2 сорта)</food>
+  <food protein="8,6" tallow="1,4" carbon="45,1" kkal="228">Хлеб зерновой (мука в/с и зерно дробленое)</food>
+  <food protein="8,3" tallow="1" carbon="49,9" kkal="243">Хлеб паляница</food>
+  <food protein="6,1" tallow="1,2" carbon="39,9" kkal="197">Хлеб подовый (из ражной обдирной муки)</food>
+  <food protein="4,9" tallow="1" carbon="44,8" kkal="210">Хлеб подовый (из ржаной сеяной муки)</food>
+  <food protein="8" tallow="1,5" carbon="40,1" kkal="208">Хлеб подовый из обойной муки</food>
+  <food protein="7,6" tallow="0,9" carbon="46,7" kkal="213,6">Хлеб пшеничный</food>
+  <food protein="8" tallow="1" carbon="49,1" kkal="238">Хлеб пшеничный, батон из муки 1 сорта</food>
+  <food protein="7,7" tallow="3" carbon="50,1" kkal="259">Хлеб пшеничный, батон нарезной из муки 1 сорта</food>
+  <food protein="8,6" tallow="1,3" carbon="45,2" kkal="228">Хлеб пшеничный, подовый из муки 2 сорта</food>
+  <food protein="7,9" tallow="1" carbon="48,3" kkal="235">Хлеб пшеничный, формовой из муки 1 сорта</food>
+  <food protein="7,6" tallow="0,9" carbon="46,7" kkal="213,6">Хлеб пшеничный, формовой из муки 2 сорта</food>
+  <food protein="7,6" tallow="0,8" carbon="49,2" kkal="235">Хлеб пшеничный, формовой из муки высшего сорта</food>
+  <food protein="7,6" tallow="0,9" carbon="46,7" kkal="213,6">Хлеб пшеничный, формовой из обойной муки</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Хлеб ржано-пшеничный</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Хлеб ржано-пшеничный, из обойной муки</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Хлеб ржано-пшеничный, минский</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Хлеб ржано-пшеничный, орловский</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Хлеб ржано-пшеничный, столовый</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Хлеб ржано-пшеничный, украинский подовый</food>
+  <food protein="6,6" tallow="1,2" carbon="34,2" kkal="165,4">Хлеб ржаной</food>
+  <food protein="6,6" tallow="1,2" carbon="34,2" kkal="165,4">Хлеб ржаной, из обдирной муки</food>
+  <food protein="6,6" tallow="1,2" carbon="34,2" kkal="165,4">Хлеб ржаной, из обойной муки</food>
+  <food protein="6,6" tallow="1,2" carbon="34,2" kkal="165,4">Хлеб ржаной, из сеяной муки</food>
+  <food protein="5,6" tallow="1,1" carbon="49,4" kkal="232">Хлеб рижский (мука ржаная сеяная и пшеничная 1 сорта)</food>
+  <food protein="7,6" tallow="0,9" carbon="46,7" kkal="213,6">Хлеб ситный молочный</food>
+  <food protein="8,3" tallow="1,2" carbon="47,9" kkal="237">Хлеб соловецкий (мука 1 и 2 сорта)</food>
+  <food protein="6,6" tallow="1,2" carbon="39,6" kkal="198">Хлеб украинский (мука ржаная обдирная и пшеничная обойная)</food>
+  <food protein="6,6" tallow="1,2" carbon="33,4" kkal="174">Хлеб формовой (из ражной обойной муки)</food>
+  <food protein="8,2" tallow="2,6" carbon="46,3" kkal="242">Хлебцы докторские (мука в/с и отруби пшеничные)</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Артишоки</food>
+  <food protein="1,2" tallow="0,1" carbon="4,5" kkal="24">Баклажаны</food>
+  <food protein="2" tallow="0" carbon="13,8" kkal="59,8">Батат</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Ботва свекольная</food>
+  <food protein="2,82" tallow="0,37" carbon="6,64" kkal="34">Брокколи</food>
+  <food protein="1,2" tallow="0,1" carbon="7,7" kkal="37">Брюква</food>
+  <food protein="23" tallow="1,2" carbon="53,3" kkal="302,7">Горох овощной (лопатка) свежий</food>
+  <food protein="0,6" tallow="0,3" carbon="4,6" kkal="24">Кабачок</food>
+  <food protein="1,8" tallow="0,1" carbon="4,7" kkal="28">Капуста белокочанная</food>
+  <food protein="4,8" tallow="0,3" carbon="3,1" kkal="35">Капуста брюссельская</food>
+  <food protein="2,8" tallow="0,1" carbon="7,9" kkal="44">Капуста кольраби</food>
+  <food protein="0,8" tallow="0,2" carbon="5,1" kkal="26">Капуста краснокочанная</food>
+  <food protein="1,2" tallow="0,2" carbon="3,23" kkal="16">Капуста пекинская</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Капуста савойская</food>
+  <food protein="2,5" tallow="0,3" carbon="4,2" kkal="30">Капуста цветная</food>
+  <food protein="2,5" tallow="0,3" carbon="4,2" kkal="28,4">Капуста цветная маринованная</food>
+  <food protein="2" tallow="0,4" carbon="16,3" kkal="77">Картофель</food>
+  <food protein="6,6" tallow="0,3" carbon="71,6" kkal="317">Картофель сушеный</food>
+  <food protein="5,6" tallow="0,2" carbon="79,1" kkal="320,8">Картофельный порошок</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Консервы овощные закусочные</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Консервы овощные натуральные</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Корнишоны</food>
+  <food protein="1,4" tallow="0,2" carbon="8,2" kkal="41">Лук репчатый</food>
+  <food protein="8,4" tallow="2,8" carbon="42,6" kkal="218,5">Лук репчатый, сушеный</food>
+  <food protein="7,8" tallow="0,6" carbon="49,2" kkal="221,1">Морковь сушеная</food>
+  <food protein="1,3" tallow="0,1" carbon="7,2" kkal="33,1">Морковь, желтая</food>
+  <food protein="1,3" tallow="0,1" carbon="6,9" kkal="35">Морковь, красная</food>
+  <food protein="0,8" tallow="0,1" carbon="2,5" kkal="14">Огурец, грунтовый</food>
+  <food protein="0,7" tallow="0,1" carbon="1,9" kkal="11">Огурец, парниковый</food>
+  <food protein="1,6" tallow="23,7" carbon="19" kkal="296">Оливки (мякоть)</food>
+  <food protein="0,6" tallow="0,1" carbon="4,3" kkal="19,4">Патиссон</food>
+  <food protein="1,87" tallow="0,44" carbon="8,81" kkal="40">Перец жгучий красный</food>
+  <food protein="1,3" tallow="0" carbon="5,7" kkal="26,6">Перец красный сладкий</food>
+  <food protein="1,3" tallow="0,1" carbon="4,9" kkal="26">Перец сладкий</food>
+  <food protein="1,2" tallow="0,1" carbon="3,4" kkal="20">Редис</food>
+  <food protein="1,9" tallow="0,2" carbon="6,7" kkal="36">Редька черная</food>
+  <food protein="1,5" tallow="0,1" carbon="6,2" kkal="32">Репа</food>
+  <food protein="1,5" tallow="0,1" carbon="8,8" kkal="42">Свекла</food>
+  <food protein="9" tallow="0,6" carbon="56,6" kkal="253,6">Свекла сушеная</food>
+  <food protein="1,1" tallow="0,2" carbon="3,8" kkal="24">Томаты (помидоры), грунтовые</food>
+  <food protein="0,6" tallow="0,2" carbon="4,2" kkal="19,9">Томаты (помидоры)</food>
+  <food protein="0,6" tallow="0,2" carbon="2,9" kkal="15,1">Томаты (помидоры), парниковые</food>
+  <food protein="2,1" tallow="0,1" carbon="12,8" kkal="61">Топинамбур</food>
+  <food protein="1" tallow="0,1" carbon="4,4" kkal="22">Тыква</food>
+  <food protein="1,8" tallow="0,1" carbon="3" kkal="23">Капуста белокочанная, квашеная</food>
+  <food protein="1,3" tallow="0,1" carbon="4,5" kkal="26">Морковь квашеная</food>
+  <food protein="2,8" tallow="0" carbon="1,3" kkal="16,1">Огурец маринованный</food>
+  <food protein="0,8" tallow="0,1" carbon="1,7" kkal="13">Огурец соленый</food>
+  <food protein="1,3" tallow="0,1" carbon="4,9" kkal="24,5">Перец сладкий маринованный</food>
+  <food protein="1,3" tallow="0" carbon="6" kkal="32">Свекла квашеная</food>
+  <food protein="1,7" tallow="0,2" carbon="1,8" kkal="15,4">Томаты маринованные</food>
+  <food protein="1,1" tallow="0,1" carbon="1,6" kkal="13">Томаты соленые</food>
+  <food protein="3,1" tallow="0,2" carbon="6,5" kkal="40">Горошек зеленый. Консервы</food>
+  <food protein="1,7" tallow="13,3" carbon="5,1" kkal="148">Икра из баклажанов. Консервы</food>
+  <food protein="1,9" tallow="8,9" carbon="7,7" kkal="119">Икра из кабачков. Консервы</food>
+  <food protein="0,97" tallow="6,87" carbon="5,61" kkal="81">Маслины черные крупные, консервированные</food>
+  <food protein="0,84" tallow="10,68" carbon="6,26" kkal="115">Маслины черные средние или мелкие, консервированные</food>
+  <food protein="1,8" tallow="16,3" carbon="5,2" kkal="175">Оливки. Консервы</food>
+  <food protein="0,2" tallow="0,1" carbon="67,2" kkal="272">Подварка кабачковая</food>
+  <food protein="0,5" tallow="0,1" carbon="65,9" kkal="269">Подварка свекольная</food>
+  <food protein="0,5" tallow="0" carbon="2,3" kkal="12">Помидоры без кожицы. Консервы</food>
+  <food protein="1,1" tallow="0,1" carbon="3,5" kkal="20">Помидоры с кожицей. Консервы</food>
+  <food protein="4,8" tallow="0" carbon="19" kkal="102">Томатная паста. Консервы</food>
+  <food protein="3,6" tallow="0" carbon="11,8" kkal="66">Томатное пюре. Консервы</food>
+  <food protein="0,6" tallow="0,2" carbon="4,2" kkal="19,9">Томаты консервированные целые</food>
+  <food protein="1,2" tallow="0,1" carbon="2,4" kkal="16">Фасоль стручковая. Консервы</food>
+  <food protein="2" tallow="0,1" carbon="2" kkal="16">Шпинат-пюре. Консервы</food>
+  <food protein="1,5" tallow="0" carbon="5" kkal="24,8">Душица</food>
+  <food protein="3" tallow="0" carbon="54,5" kkal="216,4">Кинза сушеная молотая</food>
+  <food protein="1,5" tallow="0" carbon="5" kkal="24,8">Кориандр</food>
+  <food protein="1,5" tallow="0" carbon="5" kkal="24,8">Крапива ранняя</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Листья черники</food>
+  <food protein="1,3" tallow="0,1" carbon="3,2" kkal="20">Лук зеленый (перо)</food>
+  <food protein="2" tallow="0,2" carbon="6,3" kkal="36">Лук порей</food>
+  <food protein="1,4" tallow="0,5" carbon="9,2" kkal="47">Пастернак (корень)</food>
+  <food protein="3,7" tallow="0,4" carbon="7,6" kkal="49">Петрушка</food>
+  <food protein="1,5" tallow="0,6" carbon="10,1" kkal="51">Петрушка (корень)</food>
+  <food protein="0,7" tallow="0,1" carbon="2,5" kkal="16">Ревень</food>
+  <food protein="1,5" tallow="0,2" carbon="2" kkal="16">Салат</food>
+  <food protein="0,9" tallow="0,1" carbon="2,1" kkal="13">Сельдерей</food>
+  <food protein="1,3" tallow="0,3" carbon="6,5" kkal="34">Сельдерей (корень)</food>
+  <food protein="7,8" tallow="2" carbon="36,6" kkal="186,4">Сельдерей корень сушеный</food>
+  <food protein="1,9" tallow="0,1" carbon="3,1" kkal="21">Спаржа</food>
+  <food protein="2,5" tallow="0,5" carbon="6,3" kkal="40">Укроп</food>
+  <food protein="3,2" tallow="0,4" carbon="10,5" kkal="59">Хрен корень</food>
+  <food protein="2,4" tallow="0,1" carbon="6,5" kkal="34,9">Черемша</food>
+  <food protein="6,5" tallow="0,5" carbon="29,9" kkal="149">Чеснок луковица</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Чеснок перо</food>
+  <food protein="2,9" tallow="0,3" carbon="2" kkal="23">Шпинат</food>
+  <food protein="1,5" tallow="0,3" carbon="2,9" kkal="22">Щавель</food>
+  <food protein="1,5" tallow="0" carbon="5" kkal="24,8">Эстрагон</food>
+  <food protein="1,5" tallow="0" carbon="5" kkal="24,8">Водоросли</food>
+  <food protein="0,9" tallow="0,2" carbon="0" kkal="5,4">Морская капуста</food>
+  <food protein="0,9" tallow="0,2" carbon="0" kkal="5,4">Морская капуста, консервированная</food>
+  <food protein="0,9" tallow="0,2" carbon="0" kkal="5,4">Морская капуста, сушеная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Отходы рыбные пищевые</food>
+  <food protein="26,8" tallow="13,8" carbon="0,8" kkal="235">Икра белужья зернистая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Икра вобельная пробойная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Икра вобельная ястычная (тарама)</food>
+  <food protein="30,6" tallow="11,5" carbon="1" kkal="230">Икра горбуши зернистая</food>
+  <food protein="31,5" tallow="13,2" carbon="1" kkal="249">Икра кеты зернистая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Икра лещевая пробойная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Икра лобанья вяленая</food>
+  <food protein="27,9" tallow="1,8" carbon="1,1" kkal="132">Икра минтая пробойная</food>
+  <food protein="28,4" tallow="9,3" carbon="0,6" kkal="200">Икра осетровая зернистая</food>
+  <food protein="38,2" tallow="14,5" carbon="1,5" kkal="289">Икра осетровая паюсная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Икра сазанья пробойная</food>
+  <food protein="28,2" tallow="11,7" carbon="0,7" kkal="221">Икра севрюги зернистая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Икра соленая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Икра частиковых рыб свежая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Килька балтийская пряного посола</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Килька балтийская пряного посола, весенне-летней заготовки</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Килька балтийская пряного посола, осенней заготовки</food>
+  <food protein="18" tallow="2,2" carbon="2" kkal="100">Кальмар (мясо)</food>
+  <food protein="22,5" tallow="3,2" carbon="0" kkal="119">Китовое мясо</food>
+  <food protein="16" tallow="3,6" carbon="0" kkal="96,4">Краб камчатский (мясо)</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Крабовые палочки</food>
+  <food protein="20,5" tallow="1,6" carbon="0,3" kkal="98">Креветка антарктическая (мясо) варено-мороженая</food>
+  <food protein="17,7" tallow="1,1" carbon="0,3" kkal="82">Креветка антарктическая натуральная. Консервы</food>
+  <food protein="18,3" tallow="1,2" carbon="0,8" kkal="87">Креветка дальневосточная (мясо)</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Лангуст (мясо шеек)</food>
+  <food protein="11,5" tallow="2" carbon="3,3" kkal="77">Мидии</food>
+  <food protein="16,7" tallow="1,1" carbon="0" kkal="76,7">Моллюск рапана</food>
+  <food protein="24,5" tallow="1,7" carbon="0" kkal="113">Мясо ластоногих</food>
+  <food protein="7,3" tallow="0,6" carbon="0" kkal="34,6">Мясо трепанга</food>
+  <food protein="14,91" tallow="1,04" carbon="2,2" kkal="82">Осьминог</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Паста “Океан”</food>
+  <food protein="18,8" tallow="1,3" carbon="0,5" kkal="89">Раки морские (лангуст, омар)</food>
+  <food protein="20,5" tallow="0,7" carbon="0,3" kkal="90">Раки морские вареные</food>
+  <food protein="15,5" tallow="1" carbon="1,2" kkal="76">Раки речные</food>
+  <food protein="20,3" tallow="1,3" carbon="1" kkal="97">Раки речные вареные</food>
+  <food protein="9" tallow="2" carbon="4,5" kkal="72">Устрица</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Филе морского гребешка</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Камбала речная горячего копчения</food>
+  <food protein="21,3" tallow="8,5" carbon="0" kkal="162">Килька балтийская горячего копчения</food>
+  <food protein="32,8" tallow="4,5" carbon="0" kkal="172">Лещ горячего копчения</food>
+  <food protein="23,5" tallow="8" carbon="0" kkal="166">Окунь горячего копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыба горячего копчения</food>
+  <food protein="25,4" tallow="5,6" carbon="0" kkal="152">Салака горячего копчения</food>
+  <food protein="26,7" tallow="1,2" carbon="0" kkal="115">Треска горячего копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Угорь потрошеный горячего копчения</food>
+  <food protein="19,9" tallow="7" carbon="0" kkal="142,6">Акула катран</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Альбула</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Амур</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Амур, неразделанный, непластованный кусками</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Амур, неразделанный, филе с кожей без костей</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Амур, неразделанный, филе с кожей без костей, специальная разделка</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Амур, неразделанный, филе с кожей и реберными костями</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Амур, неразделанный, филе с кожей и реберными костями, специальная разделка</food>
+  <food protein="20,1" tallow="6,1" carbon="0" kkal="135,3">Анчоусы атлантические</food>
+  <food protein="17,6" tallow="2" carbon="0" kkal="88,4">Аргентина</food>
+  <food protein="17,3" tallow="11,2" carbon="0" kkal="170">Баттерфиш</food>
+  <food protein="17,3" tallow="11,2" carbon="0" kkal="170">Баттерфиш, весенне-летняя</food>
+  <food protein="17,3" tallow="11,2" carbon="0" kkal="170">Баттерфиш, осенне-зимняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белоглазка</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белоглазка, аральская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белоглазка, волго-каспийская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белорыбица</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белорыбица, неразделанная, непластованная кусками</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белорыбица, неразделанная, филе без кожи и костей</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белорыбица, неразделанная, филе с кожей без костей</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белорыбица, неразделанная, филе с кожей и реберными костями</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белуга</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Бельдюга океаническая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Бельдюга океаническая, непластованная кусками</food>
+  <food protein="20,3" tallow="0,8" carbon="0" kkal="88,4">Берикс</food>
+  <food protein="20" tallow="7,2" carbon="0" kkal="144,8">Бесуго</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Большеголов</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Бычок-песочник</food>
+  <food protein="18" tallow="2,8" carbon="0" kkal="95">Вобла</food>
+  <food protein="8" tallow="1,9" carbon="0" kkal="49,1">Гладкоголов</food>
+  <food protein="20,5" tallow="6,5" carbon="0" kkal="140">Горбуша</food>
+  <food protein="20,3" tallow="4,3" carbon="0" kkal="119,9">Джакас</food>
+  <food protein="19,4" tallow="1,1" carbon="0" kkal="87,5">Дрепана</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ёрш</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ерш морской дальневосточный</food>
+  <food protein="17,9" tallow="4" carbon="0" kkal="107,6">Желтоперка</food>
+  <food protein="18,8" tallow="2,6" carbon="0" kkal="98,6">Жерех</food>
+  <food protein="19,6" tallow="4,3" carbon="0" kkal="117,1">Зеленоглазка</food>
+  <food protein="18,8" tallow="6,3" carbon="0" kkal="131,9">Зубан</food>
+  <food protein="19,6" tallow="5,3" carbon="0" kkal="126">Зубатка пестрая</food>
+  <food protein="16" tallow="5" carbon="0" kkal="109">Зубатка полосатая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кабан-рыба</food>
+  <food protein="15,7" tallow="3" carbon="0" kkal="90">Камбала дальневосточная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Камбала полярная</food>
+  <food protein="18,2" tallow="1,3" carbon="0" kkal="84,5">Камбала черноморская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Камбала-ерш</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Капитан-рыба</food>
+  <food protein="17,7" tallow="1,8" carbon="0" kkal="87">Карась</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Карась океанический</food>
+  <food protein="16" tallow="5,3" carbon="0" kkal="112">Карп</food>
+  <food protein="19" tallow="5,6" carbon="0" kkal="127">Кета</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кефаль</food>
+  <food protein="21,6" tallow="6" carbon="0" kkal="140">Кижуч</food>
+  <food protein="17,1" tallow="7,6" carbon="0" kkal="136,8">Килька</food>
+  <food protein="14,1" tallow="9" carbon="0" kkal="137">Килька балтийская</food>
+  <food protein="18,5" tallow="13,1" carbon="0" kkal="192">Килька каспийская</food>
+  <food protein="18,5" tallow="13,1" carbon="0" kkal="191,9">Килька каспийская, анчоусовидная</food>
+  <food protein="18,5" tallow="13,1" carbon="0" kkal="191,9">Килька каспийская, обыкновенная</food>
+  <food protein="14,4" tallow="16,1" carbon="0" kkal="202,5">Клыкач</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кожа, кости, чешуя рыбная</food>
+  <food protein="15,4" tallow="4,5" carbon="0" kkal="102,1">Корюшка зубастая</food>
+  <food protein="15,4" tallow="4,5" carbon="0" kkal="102,1">Корюшка зубастая, азиатская</food>
+  <food protein="15,4" tallow="4,5" carbon="0" kkal="102,1">Корюшка зубастая, невская обыкновенная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кости рыбные</food>
+  <food protein="21,9" tallow="4,2" carbon="0" kkal="125,4">Красноглазка</food>
+  <food protein="18,3" tallow="3" carbon="0" kkal="100,2">Красноперка дальневосточная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кубера</food>
+  <food protein="15,8" tallow="0,9" carbon="0" kkal="71,3">Курок</food>
+  <food protein="17,7" tallow="2,2" carbon="0" kkal="90,6">Ледяная рыба</food>
+  <food protein="15,9" tallow="0,4" carbon="0" kkal="67,2">Лемонема</food>
+  <food protein="20,2" tallow="0,4" carbon="0" kkal="84,4">Летрин</food>
+  <food protein="17,1" tallow="4,4" carbon="0" kkal="105">Лещ</food>
+  <food protein="21,3" tallow="6,4" carbon="0" kkal="105">Лещ морской</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Лихня</food>
+  <food protein="20" tallow="8,1" carbon="0" kkal="153">Лосось атлантический (семга)</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Лунник</food>
+  <food protein="19,7" tallow="3,4" carbon="0" kkal="109,4">Луфарь океанический</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Луциан</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Луциан, желтохвостый</food>
+  <food protein="14" tallow="13" carbon="0" kkal="173">Мавроликус</food>
+  <food protein="20,7" tallow="3,4" carbon="0" kkal="113,4">Макрель</food>
+  <food protein="7,1" tallow="0,4" carbon="0" kkal="32">Макрурус малоглазый</food>
+  <food protein="13,3" tallow="1,6" carbon="0" kkal="67,6">Макрурус тупорылый</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Маринка</food>
+  <food protein="18,8" tallow="4,2" carbon="0" kkal="113">Масляная рыба</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Мерланг</food>
+  <food protein="19,4" tallow="2,9" carbon="0" kkal="103,7">Мерроу</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Минога</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Минога, каспийская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Минога, речная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Минога, речная, весенняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Минога, речная, осенняя</food>
+  <food protein="15,9" tallow="0,9" carbon="0" kkal="72">Минтай</food>
+  <food protein="13,1" tallow="7,1" carbon="0" kkal="116,3">Мойва</food>
+  <food protein="13,1" tallow="7,1" carbon="0" kkal="116">Мойва весенняя</food>
+  <food protein="13,6" tallow="18,1" carbon="0" kkal="217">Мойва осенняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Муксун</food>
+  <food protein="19,2" tallow="1,6" carbon="0" kkal="91">Навага беломорская</food>
+  <food protein="15,1" tallow="0,9" carbon="0" kkal="68,5">Навага дальневосточная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Налим</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Нельма</food>
+  <food protein="20,3" tallow="8,4" carbon="0" kkal="157">Нерка красная</food>
+  <food protein="15,5" tallow="17,5" carbon="0" kkal="219,5">Нотоскопелюс кроуэри</food>
+  <food protein="15,7" tallow="9,5" carbon="0" kkal="148,3">Нототения мраморная</food>
+  <food protein="18,2" tallow="3,3" carbon="0" kkal="103">Окунь морской</food>
+  <food protein="18,5" tallow="0,9" carbon="0" kkal="82">Окунь речной</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Омуль</food>
+  <food protein="16,4" tallow="10,9" carbon="0" kkal="163,7">Осетр</food>
+  <food protein="16,4" tallow="10,9" carbon="0" kkal="164">Осетр каспийский</food>
+  <food protein="16,4" tallow="10,9" carbon="0" kkal="163,7">Осетр, азово-черноморский</food>
+  <food protein="16,4" tallow="10,9" carbon="0" kkal="163,7">Осетр, сибирский</food>
+  <food protein="16,7" tallow="0,6" carbon="0" kkal="72,2">Ошибень</food>
+  <food protein="19,8" tallow="3" carbon="0" kkal="106,2">Пагрус</food>
+  <food protein="18,9" tallow="3" carbon="0" kkal="103">Палтус белокорый</food>
+  <food protein="12,8" tallow="16,1" carbon="0" kkal="196,1">Палтус черный</food>
+  <food protein="22,4" tallow="14,2" carbon="0" kkal="217">Пеламида</food>
+  <food protein="17,2" tallow="0,5" carbon="0" kkal="73">Пикша</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Плотва</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Пристипома</food>
+  <food protein="14,6" tallow="3,7" carbon="0" kkal="91,7">Псенопсис</food>
+  <food protein="18,5" tallow="0,9" carbon="0" kkal="82">Путассу</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Пыжьян</food>
+  <food protein="19,4" tallow="1,6" carbon="0" kkal="92">Рыба-капитан</food>
+  <food protein="20,3" tallow="3,2" carbon="0" kkal="110">Рыба-лист</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыба-мелочь (I категории)</food>
+  <food protein="19,3" tallow="3,2" carbon="0" kkal="106">Рыба-сабля</food>
+  <food protein="19,3" tallow="3,2" carbon="0" kkal="106">Рыба-сабля, черная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыбец</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыбец, азово-черноморский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыбец, каспийский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ряпушка сибирская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ряпушка сибирская, енисейская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ряпушка сибирская, обская</food>
+  <food protein="18,2" tallow="2,7" carbon="0" kkal="97">Сазан</food>
+  <food protein="18,4" tallow="5,3" carbon="0" kkal="121,3">Сазан азовский</food>
+  <food protein="19,1" tallow="0,5" carbon="0" kkal="80,9">Сайда</food>
+  <food protein="19,5" tallow="14,1" carbon="0" kkal="204,9">Сайра</food>
+  <food protein="19,5" tallow="14,1" carbon="0" kkal="204,9">Сайра, крупная</food>
+  <food protein="19,5" tallow="14,1" carbon="0" kkal="204,9">Сайра, мелкая</food>
+  <food protein="19,5" tallow="14,1" carbon="0" kkal="204,9">Сайра, средняя</food>
+  <food protein="17" tallow="6,3" carbon="0" kkal="125">Салака</food>
+  <food protein="17,5" tallow="3" carbon="0" kkal="93">Салака, весенне-летняя</food>
+  <food protein="17" tallow="8,3" carbon="0" kkal="143">Салака, осенне-зимняя</food>
+  <food protein="16,5" tallow="0,8" carbon="0" kkal="73,2">Салилота</food>
+  <food protein="19" tallow="10" carbon="0" kkal="166">Сардина океаническая</food>
+  <food protein="16,9" tallow="10,3" carbon="0" kkal="160">Севрюга</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь</food>
+  <food protein="17,7" tallow="19,5" carbon="0" kkal="246,3">Сельдь атлантическая</food>
+  <food protein="17,7" tallow="19,5" carbon="0" kkal="248">Сельдь атлантическая жирная</food>
+  <food protein="19,1" tallow="6,5" carbon="0" kkal="135">Сельдь атлантическая нежирная</food>
+  <food protein="20,5" tallow="11,1" carbon="0" kkal="182,3">Сельдь иваси</food>
+  <food protein="20,5" tallow="11,1" carbon="0" kkal="182,3">Сельдь иваси, крупная</food>
+  <food protein="20,5" tallow="11,1" carbon="0" kkal="182,3">Сельдь иваси, мелкая</food>
+  <food protein="14" tallow="15" carbon="0" kkal="191">Сельдь тихоокеанская</food>
+  <food protein="14" tallow="15" carbon="0" kkal="191">Сельдь тихоокеанская жирная</food>
+  <food protein="18" tallow="7" carbon="0" kkal="135">Сельдь тихоокеанская нежирная</food>
+  <food protein="8,3" tallow="5,6" carbon="0" kkal="83,6">Серебрянка</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сериола</food>
+  <food protein="19,4" tallow="9,2" carbon="0" kkal="160,4">Сериолелла</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сиг</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сиг, байкальский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сиг, волховский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Скап океанический</food>
+  <food protein="24" tallow="1,6" carbon="0" kkal="110,4">Скат-лисица</food>
+  <food protein="17,3" tallow="3,9" carbon="0" kkal="104,3">Сквама</food>
+  <food protein="18" tallow="13,2" carbon="0" kkal="191">Скумбрия атлантическая</food>
+  <food protein="19,3" tallow="18" carbon="0" kkal="239">Скумбрия дальневосточная</food>
+  <food protein="21,8" tallow="6,3" carbon="0" kkal="143,9">Снэк</food>
+  <food protein="18,9" tallow="2,2" carbon="0" kkal="95,4">Солнечник</food>
+  <food protein="17,2" tallow="5,1" carbon="0" kkal="115">Сом</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сорога (плотва сибирская)</food>
+  <food protein="18,5" tallow="4,5" carbon="0" kkal="114">Ставрида океаническая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Стерлядь</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Стерлядь, волжская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Стерлядь, сибирская</food>
+  <food protein="18,4" tallow="1,1" carbon="0" kkal="84">Судак</food>
+  <food protein="19,1" tallow="5,5" carbon="0" kkal="125,9">Сырок (пелядь)</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Таймень</food>
+  <food protein="17,8" tallow="3,4" carbon="0" kkal="101,8">Терпуг</food>
+  <food protein="16" tallow="0,6" carbon="0" kkal="69">Треска</food>
+  <food protein="24,4" tallow="4,6" carbon="0" kkal="139">Тунец</food>
+  <food protein="12,2" tallow="16,9" carbon="0" kkal="200,9">Угольная рыба</food>
+  <food protein="12,2" tallow="16,9" carbon="0" kkal="200,9">Угольная рыба, крупная</food>
+  <food protein="12,2" tallow="16,9" carbon="0" kkal="200,9">Угольная рыба, мелкая</food>
+  <food protein="14,5" tallow="30,5" carbon="0" kkal="333">Угорь</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Угорь морской</food>
+  <food protein="14,8" tallow="1" carbon="0" kkal="68,2">Удильщик</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Умбрина</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Усач</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Усач, аральский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Усач, каспийский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Форель</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Хамса</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Хариус</food>
+  <food protein="16,6" tallow="2,2" carbon="0" kkal="86">Хек</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Хрящи рыб осетровых пород</food>
+  <food protein="19,1" tallow="8" carbon="0" kkal="148">Чавыча</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Чехонь</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Чехонь, азовская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Чехонь, волго-каспийская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Чир (щокур)</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Чир (щокур), енисейский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Чир (щокур), обский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Шемая аральская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Шемая аральская, весенняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Шемая аральская, осенняя</food>
+  <food protein="18,4" tallow="1,1" carbon="0" kkal="84">Щука</food>
+  <food protein="16,5" tallow="11,8" carbon="0" kkal="172,2">Эпигонус дальневосточный</food>
+  <food protein="10,3" tallow="5,2" carbon="0" kkal="88">Язык морской</food>
+  <food protein="19" tallow="4,5" carbon="0" kkal="116,5">Язь</food>
+  <food protein="22,1" tallow="9" carbon="0" kkal="169">Горбуша соленая</food>
+  <food protein="24,3" tallow="9,6" carbon="0" kkal="184">Кета соленая</food>
+  <food protein="17,1" tallow="7,6" carbon="0" kkal="137">Килька балтийская соленая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Лещ каспийский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Лосось каспийский потрошеный с головой</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыба соленая</food>
+  <food protein="17" tallow="8,5" carbon="0" kkal="145">Сельдь атлантическая среднесоленая</food>
+  <food protein="17,4" tallow="17,1" carbon="0" kkal="224">Сельдь тихоокеанская среднесоленая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, азово-черноморская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, каспийская (волжская)</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, каспийская (волжская), крупная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, каспийская (волжская), средняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, каспийская (долганская)</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, каспийская (долганская), крупная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, каспийская (долганская), средняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, тихоокеанская</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сельдь, тихоокеанская, слабосоленая</food>
+  <food protein="22,5" tallow="12,5" carbon="0" kkal="202">Семга соленая потрошенная с головой</food>
+  <food protein="23,1" tallow="0,6" carbon="0" kkal="98">Треска соленая</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Тюлька</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Тюлька, весенняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Тюлька, осенняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Хамса</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Хамса, весенняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Хамса, осенняя</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Балык осетровый вяленый</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Вобла каспийская вяленая</food>
+  <food protein="42" tallow="5,9" carbon="0" kkal="221">Лещ вяленый</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Снеток солено-сушеный</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Снеток солено-сушеный, полесский</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Снеток солено-сушеный, псковский</food>
+  <food protein="20,4" tallow="12,5" carbon="0" kkal="194">Балык осетровый холодного копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белоглазка аральская холодного копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Боковник белужий холодного копчения</food>
+  <food protein="31,1" tallow="6,3" carbon="0" kkal="181">Вобла холодного копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кефаль холодного копчения</food>
+  <food protein="29,7" tallow="4,6" carbon="0" kkal="160">Лещ холодного копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Окунь морской холодного копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рубец азово-черноморский холодного копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыба холодного копчения</food>
+  <food protein="20,3" tallow="16" carbon="0" kkal="225">Сельдь тихоокеанская жирная холодного копчения</food>
+  <food protein="23,4" tallow="6,4" carbon="0" kkal="150">Скумбрия холодного копчения</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ставрида атлантическая холодного копчения</food>
+  <food protein="17,6" tallow="25,7" carbon="0" kkal="302">Теша осетровая холодного копчения</food>
+  <food protein="20,1" tallow="6,1" carbon="0" kkal="135,3">Анчоусы атлантические, консервированные</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Белуга бланшированная консервированная</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Бычки в томатном соусе</food>
+  <food protein="15" tallow="6" carbon="4,1" kkal="130">Горбуша в томатном соусе. Консервы</food>
+  <food protein="20,9" tallow="5,8" carbon="0" kkal="136">Горбуша натуральная. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Камбала в томатном соусе</food>
+  <food protein="14,4" tallow="21,8" carbon="0" kkal="254">Камбала обжаренная в масле. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кета в томатном соусе</food>
+  <food protein="21,5" tallow="4,8" carbon="0" kkal="129">Кета натуральная. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Кижуч консервированный</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Крабы консервированные</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Креветки дальневосточные консервированные</food>
+  <food protein="15,3" tallow="5,1" carbon="4" kkal="124">Лещ в томатном соусе. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Муксун в томатном соусе</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Налим в томатном соусе</food>
+  <food protein="19,1" tallow="10,5" carbon="0" kkal="171">Нерка натуральная. Консервы</food>
+  <food protein="14,4" tallow="11,8" carbon="3,3" kkal="164">Осетр в томатном соусе. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Осетр консервированный</food>
+  <food protein="4,2" tallow="65,7" carbon="1,2" kkal="613">Печень трески. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыбные консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыбные консервы в масле</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Рыбные консервы в томатном соусе</food>
+  <food protein="12,4" tallow="8,7" carbon="3,5" kkal="143">Сазан в томатном соусе. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сайра бланшированная в масле</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сардины в масле</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сардины в масле, атлантические</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сардины в масле, дальневосточные</food>
+  <food protein="19" tallow="10" carbon="0" kkal="166">Сардины океанические, консервированные</food>
+  <food protein="16" tallow="11,4" carbon="2,6" kkal="178">Севрюга в томатном соусе. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Сиг в томатном соусе</food>
+  <food protein="14,4" tallow="28,9" carbon="0" kkal="318">Скумбрия в масле. Консервы</food>
+  <food protein="14,4" tallow="28,9" carbon="0" kkal="317,7">Скумбрия консервированная в масле, атлантическая</food>
+  <food protein="14,4" tallow="28,9" carbon="0" kkal="317,7">Скумбрия консервированная в масле, дальневосточная</food>
+  <food protein="18,8" tallow="19,2" carbon="0" kkal="248">Скумбрия курильская натуральная. Консервы</food>
+  <food protein="17,7" tallow="14,4" carbon="0" kkal="200">Скумбрия натуральная. Консервы</food>
+  <food protein="12,9" tallow="6,3" carbon="4" kkal="126">Сом в томатном соусе. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ставрида в масле</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Ставрида в томатном соусе</food>
+  <food protein="14" tallow="5,3" carbon="3,1" kkal="119">Судак в томатном соусе. Консервы</food>
+  <food protein="20,8" tallow="23" carbon="0" kkal="290">Треска копченая в масле. Консервы</food>
+  <food protein="22" tallow="15,9" carbon="0" kkal="232">Тунец в масле. Консервы</food>
+  <food protein="22,5" tallow="0,7" carbon="0" kkal="96">Тунец натуральный. Консервы</food>
+  <food protein="17,4" tallow="32,4" carbon="0" kkal="363">Шпроты в масле. Консервы</food>
+  <food protein="14,2" tallow="4" carbon="3,1" kkal="110">Щука в томатном соусе. Консервы</food>
+  <food protein="17,5" tallow="2" carbon="0" kkal="88">Язь в томатном соусе</food>
+  <food protein="22,1" tallow="19,2" carbon="0,4" kkal="262">Брынза коровья</food>
+  <food protein="21,1" tallow="18,8" carbon="0,3" kkal="260">Брынза овечья</food>
+  <food protein="20,5" tallow="22" carbon="0,4" kkal="286">Сулугуни</food>
+  <food protein="19,8" tallow="19,8" carbon="1,5" kkal="264">Сыр адыгейский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр алтайский</food>
+  <food protein="24,2" tallow="29,9" carbon="0" kkal="371">Сыр бийский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр волжский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр вырусский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр голландский</food>
+  <food protein="26,3" tallow="26,6" carbon="0" kkal="350">Сыр голландский, брусковый</food>
+  <food protein="23,7" tallow="30,4" carbon="0" kkal="375">Сыр голландский, круглый</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр горный алтай</food>
+  <food protein="17" tallow="4" carbon="1,5" kkal="113">Сыр домашний 4,0% жирности</food>
+  <food protein="18" tallow="0,6" carbon="1,5" kkal="86">Сыр домашний нежирный</food>
+  <food protein="20" tallow="28" carbon="0" kkal="332">Сыр дорогобужский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр жемайчу</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр зеленый</food>
+  <food protein="15,3" tallow="28,8" carbon="0,1" kkal="324">Сыр камамбер</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр каунасский</food>
+  <food protein="25,6" tallow="26,1" carbon="0" kkal="343">Сыр костромской</food>
+  <food protein="23,3" tallow="24,1" carbon="0" kkal="316">Сыр латвийский</food>
+  <food protein="27,9" tallow="14,7" carbon="0" kkal="250">Сыр литовский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр московский</food>
+  <food protein="20" tallow="28" carbon="0" kkal="332">Сыр мягкий</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр нямунас</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр осетинский</food>
+  <food protein="16,8" tallow="11,2" carbon="23,8" kkal="257,3">Сыр плавленный с наполнителем</food>
+  <food protein="22" tallow="27" carbon="0" kkal="331">Сыр плавленый</food>
+  <food protein="15,3" tallow="21" carbon="1,8" kkal="257">Сыр плавленый “белоснежка”</food>
+  <food protein="15,2" tallow="10,8" carbon="23,8" kkal="254">Сыр плавленый “золушка”</food>
+  <food protein="6,1" tallow="16,5" carbon="29,4" kkal="291">Сыр плавленый “медовый”</food>
+  <food protein="7,9" tallow="19,1" carbon="32,7" kkal="335">Сыр плавленый “мятный”</food>
+  <food protein="12,2" tallow="18" carbon="26,1" kkal="316">Сыр плавленый “сказка”</food>
+  <food protein="13" tallow="11,4" carbon="28,4" kkal="269">Сыр плавленый “сластена”</food>
+  <food protein="10,7" tallow="25" carbon="10,6" kkal="307,5">Сыр плавленый “чебурашка”</food>
+  <food protein="22" tallow="27" carbon="0" kkal="331">Сыр плавленый, “новый”</food>
+  <food protein="22" tallow="27" carbon="0" kkal="331">Сыр плавленый, “новый”, 30%</food>
+  <food protein="22" tallow="27" carbon="0" kkal="331">Сыр плавленый, “новый”, 40%</food>
+  <food protein="21,2" tallow="19,4" carbon="3,7" kkal="275">Сыр плавленый, колбасный копченый</food>
+  <food protein="21,4" tallow="19,2" carbon="2,3" kkal="269">Сыр плавленый, костромской</food>
+  <food protein="22" tallow="27" carbon="0" kkal="331">Сыр плавленый, латвийский</food>
+  <food protein="20,5" tallow="23" carbon="2,5" kkal="300">Сыр плавленый, российский</food>
+  <food protein="23" tallow="22,5" carbon="1,8" kkal="301,3">Сыр плавленый, советский</food>
+  <food protein="26" tallow="26,1" carbon="0" kkal="344">Сыр пошехонский</food>
+  <food protein="29,8" tallow="9" carbon="0" kkal="207">Сыр прибалтийский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр рассольный</food>
+  <food protein="20,5" tallow="27,5" carbon="0" kkal="335">Сыр рокфор</food>
+  <food protein="23,2" tallow="29,5" carbon="0" kkal="364">Сыр российский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр салдусский</food>
+  <food protein="24,4" tallow="31,1" carbon="0" kkal="385">Сыр советский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр степной</food>
+  <food protein="23,8" tallow="23,9" carbon="0" kkal="315">Сыр сусанинский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр тартуский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр твердый</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр твердый, сыр земгальский</food>
+  <food protein="25,8" tallow="26,3" carbon="0" kkal="347">Сыр угличский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр украинский</food>
+  <food protein="23,5" tallow="30,8" carbon="0" kkal="380">Сыр чеддер</food>
+  <food protein="24,6" tallow="31,6" carbon="0" kkal="391">Сыр швейцарский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр шетский</food>
+  <food protein="28,7" tallow="28,5" carbon="0,3" kkal="372,4">Сыр эмментальский</food>
+  <food protein="26" tallow="26,5" carbon="3,5" kkal="355,6">Сыр эстонский</food>
+  <food protein="26,2" tallow="26,6" carbon="0" kkal="350">Сыр ярославский</food>
+  <food protein="16" tallow="1" carbon="70" kkal="335,5">Саго (крупа из крахмала)</food>
+  <food protein="10,4" tallow="1,1" carbon="69,7" kkal="337">Макаронные изделия, высшего сорта, витаминизированные</food>
+  <food protein="10,4" tallow="1,1" carbon="68,7" kkal="309,1">Макаронные изделия, высшего сорта, молочные</food>
+  <food protein="11,3" tallow="2,1" carbon="69,6" kkal="342">Макаронные изделия, высшего сорта, яичные</food>
+  <food protein="11,2" tallow="1,6" carbon="68,4" kkal="333">Макароны из муки 1 сорта</food>
+  <food protein="11" tallow="1,3" carbon="70,5" kkal="338">Макароны из муки в/с</food>
+  <food protein="13,6" tallow="1,2" carbon="71,9" kkal="353">Гречневая мука</food>
+  <food protein="7,2" tallow="1,5" carbon="72,1" kkal="331">Кукурузная мука</food>
+  <food protein="10,3" tallow="1,1" carbon="70,6" kkal="334">Мука высшего сорта из мыгких сортов пшеницы</food>
+  <food protein="7,4" tallow="0,6" carbon="80,2" kkal="356">Мука диетическая рисовая</food>
+  <food protein="33,8" tallow="7,7" carbon="32,7" kkal="335">Мука из зародышей пшеницы</food>
+  <food protein="36,5" tallow="18,6" carbon="17,9" kkal="385">Мука соевая необезжиренная</food>
+  <food protein="48,9" tallow="1" carbon="21,7" kkal="291">Мука соевая обезжиренная</food>
+  <food protein="43" tallow="9,5" carbon="19,1" kkal="334">Мука соевая полуобезжиренная</food>
+  <food protein="13" tallow="6,8" carbon="64,9" kkal="369">Овсяная мука</food>
+  <food protein="11,7" tallow="1,8" carbon="70,8" kkal="328,5">Пшеничная мука, второго сорта</food>
+  <food protein="10,8" tallow="1,3" carbon="69,9" kkal="334">Пшеничная мука, высшего сорта</food>
+  <food protein="10,3" tallow="0,9" carbon="74,2" kkal="327,5">Пшеничная мука, высшего сорта, витаминизированная</food>
+  <food protein="11,5" tallow="2,2" carbon="61,5" kkal="312">Пшеничная мука, обойная</food>
+  <food protein="11,1" tallow="1,5" carbon="67,8" kkal="329">Пшеничная мука, первого сорта</food>
+  <food protein="10,6" tallow="1,3" carbon="73,2" kkal="328,6">Пшеничная мука, первого сорта, витаминизированная</food>
+  <food protein="8,9" tallow="1,7" carbon="61,8" kkal="298">Ржаная мука, обдирная</food>
+  <food protein="10,7" tallow="1,9" carbon="58,5" kkal="294">Ржаная мука, обойная</food>
+  <food protein="6,9" tallow="1,4" carbon="66,3" kkal="305">Ржаная мука, сеяная</food>
+  <food protein="10" tallow="1,6" carbon="56,1" kkal="264,8">Ячменная мука</food>
+  <food protein="0,1" tallow="0" carbon="78,2" kkal="313">Крахмал картофельный</food>
+  <food protein="1" tallow="0,6" carbon="83,5" kkal="343">Крахмал кукурузный</food>
+  <food protein="1" tallow="0,6" carbon="85,2" kkal="328,9">Крахмал кукурузный, модифицированный</food>
+  <food protein="16" tallow="3,8" carbon="16,6" kkal="165">Отруби пшеничные</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Ванилин</food>
+  <food protein="0" tallow="0" carbon="0" kkal="9">Винный уксус (3%)</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Гвоздика</food>
+  <food protein="5" tallow="40" carbon="10" kkal="417,5">Горчица столовая</food>
+  <food protein="12,7" tallow="2,7" carbon="8,5" kkal="109">Дрожжи прессованные (*эргостерин)</food>
+  <food protein="2,36" tallow="0,86" carbon="4,89" kkal="23">Каперсы консервированные</food>
+  <food protein="10,76" tallow="6,7" carbon="68,47" kkal="311">Кардамон</food>
+  <food protein="3,99" tallow="1,24" carbon="80,59" kkal="247">Корица</food>
+  <food protein="7,61" tallow="8,36" carbon="74,97" kkal="313">Лавровый лист</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Лимонная кислота</food>
+  <food protein="2,8" tallow="67" carbon="3,7" kkal="629">Майонез «Провансаль»</food>
+  <food protein="2,4" tallow="67" carbon="3,9" kkal="627">Майонез столовый молочный</food>
+  <food protein="0" tallow="0" carbon="98,9" kkal="370,9">Маннит</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Перец душистый</food>
+  <food protein="12,01" tallow="17,27" carbon="56,63" kkal="318">Перец молотый красный</food>
+  <food protein="10,95" tallow="3,26" carbon="64,81" kkal="255">Перец черный горошек</food>
+  <food protein="10,95" tallow="3,26" carbon="64,81" kkal="255">Перец черный молотый</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Пищевая сода</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Рассол соли</food>
+  <food protein="2,3" tallow="20,6" carbon="2,6" kkal="204,3">Сметанно-чесночная приправа</food>
+  <food protein="6" tallow="0" carbon="6,66" kkal="50,66">Соевый соус</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Соль поваренная пищевая</food>
+  <food protein="5" tallow="40" carbon="10" kkal="417,5">Соус ткемали</food>
+  <food protein="2,5" tallow="0" carbon="21,2" kkal="99">Соус томатный острый</food>
+  <food protein="5" tallow="40" carbon="10" kkal="417,5">Соус Южный</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Сумах</food>
+  <food protein="19,77" tallow="14,59" carbon="49,9" kkal="333">Тмин</food>
+  <food protein="0,6" tallow="0" carbon="0,5" kkal="4,2">Томатно-чесночная приправа</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Томатные концентраты и соусы</food>
+  <food protein="0" tallow="0" carbon="3" kkal="11,3">Уксус 9%</food>
+  <food protein="5" tallow="40" carbon="10" kkal="417,5">Хмели-сунели</food>
+  <food protein="0,9" tallow="0,1" carbon="3" kkal="15,8">Цедра</food>
+  <food protein="1,5" tallow="0,2" carbon="25" kkal="97">Цедра апельсиновая</food>
+  <food protein="1,5" tallow="0,3" carbon="16" kkal="47">Цедра лимонная</food>
+  <food protein="11,43" tallow="5,85" carbon="65,37" kkal="310">Шафран</food>
+  <food protein="0,9" tallow="0,1" carbon="9" kkal="44">Абрикосы</food>
+  <food protein="5,2" tallow="0,3" carbon="51" kkal="232">Абрикосы сушеные без косточки (курага)</food>
+  <food protein="5" tallow="0,4" carbon="53" kkal="242">Абрикосы сушеные с косточкой (урюк)</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Авокадо</food>
+  <food protein="0,6" tallow="0,5" carbon="9,6" kkal="48">Айва</food>
+  <food protein="0,2" tallow="0,1" carbon="7,9" kkal="34">Алыча</food>
+  <food protein="0,3" tallow="0,1" carbon="11,8" kkal="52">Ананас</food>
+  <food protein="0,9" tallow="0,2" carbon="8,1" kkal="43">Апельсин</food>
+  <food protein="0,6" tallow="0,1" carbon="5,8" kkal="27">Арбуз</food>
+  <food protein="1,5" tallow="0,5" carbon="21" kkal="96">Банан</food>
+  <food protein="0" tallow="0" carbon="14" kkal="52,5">Боярышник</food>
+  <food protein="2,3" tallow="0,5" carbon="65,8" kkal="281">Виноград сушеный (кишмиш)</food>
+  <food protein="0,8" tallow="0,2" carbon="10,6" kkal="52">Вишня</food>
+  <food protein="0,7" tallow="0,6" carbon="14,5" kkal="72">Гранат</food>
+  <food protein="0,7" tallow="0,2" carbon="6,5" kkal="35">Грейпфрут</food>
+  <food protein="0,4" tallow="0,3" carbon="10,3" kkal="47">Груша</food>
+  <food protein="2,3" tallow="0,6" carbon="62,6" kkal="270">Груша сушеная</food>
+  <food protein="0,6" tallow="0,3" carbon="7,4" kkal="35">Дыня</food>
+  <food protein="2,9" tallow="0,6" carbon="66" kkal="264,1">Изюм</food>
+  <food protein="0,7" tallow="0,2" carbon="12" kkal="54">Инжир</food>
+  <food protein="3,1" tallow="0,8" carbon="57,9" kkal="257">Инжир сушеный</food>
+  <food protein="0" tallow="0" carbon="12" kkal="45">Ирга</food>
+  <food protein="0" tallow="0" carbon="7" kkal="26,3">Калина</food>
+  <food protein="0,8" tallow="0,4" carbon="8,1" kkal="47">Киви</food>
+  <food protein="0" tallow="0" carbon="10" kkal="37,5">Кишмиш</food>
+  <food protein="0,9" tallow="0,1" carbon="3" kkal="34">Лимон</food>
+  <food protein="0,8" tallow="0,2" carbon="7,5" kkal="38">Мандарин</food>
+  <food protein="1,2" tallow="5,4" carbon="5,7" kkal="82">Облепиха</food>
+  <food protein="0,9" tallow="0,1" carbon="9,5" kkal="45">Персик</food>
+  <food protein="3" tallow="0,4" carbon="57,7" kkal="254">Персик сушеный</food>
+  <food protein="1,4" tallow="0,2" carbon="8,9" kkal="50">Рябина садовая красная</food>
+  <food protein="1,5" tallow="0,2" carbon="10,9" kkal="55">Рябина черноплодная</food>
+  <food protein="0,8" tallow="0,3" carbon="9,6" kkal="49">Слива (садовая)</food>
+  <food protein="2,3" tallow="0,7" carbon="57,5" kkal="256">Слива сушеная (чернослив)</food>
+  <food protein="0,5" tallow="0,2" carbon="8" kkal="42">Смородина белая</food>
+  <food protein="1,5" tallow="0,3" carbon="9,4" kkal="54">Терн</food>
+  <food protein="2,5" tallow="0,5" carbon="69,2" kkal="292">Финики</food>
+  <food protein="0,5" tallow="0,4" carbon="15,3" kkal="67">Хурма</food>
+  <food protein="3" tallow="0" carbon="54,5" kkal="216,4">Цукаты</food>
+  <food protein="1,1" tallow="0,4" carbon="10,6" kkal="52">Черешня</food>
+  <food protein="0,4" tallow="0,4" carbon="9,8" kkal="47">Яблоки</food>
+  <food protein="2,2" tallow="0,1" carbon="59" kkal="253">Яблоки сушеные</food>
+  <food protein="0,4" tallow="0,2" carbon="70,6" kkal="273">Варенье из айвы</food>
+  <food protein="0,3" tallow="0,2" carbon="70,8" kkal="273">Варенье из груши</food>
+  <food protein="0,3" tallow="0,1" carbon="74" kkal="285">Варенье из клубники</food>
+  <food protein="0,6" tallow="0,2" carbon="70,4" kkal="273">Варенье из малины</food>
+  <food protein="0,7" tallow="0,2" carbon="75,9" kkal="294">Варенье из мандаринов</food>
+  <food protein="0,5" tallow="0" carbon="66,8" kkal="258">Варенье из персиков</food>
+  <food protein="0,4" tallow="0" carbon="74,8" kkal="387">Варенье из рябины черноплодной</food>
+  <food protein="0,4" tallow="0,3" carbon="74,2" kkal="288">Варенье из сливы</food>
+  <food protein="0,4" tallow="0,3" carbon="68,2" kkal="265">Варенье из яблок</food>
+  <food protein="0,2" tallow="0" carbon="21,7" kkal="89">Компот из абрикосов. Консервы</food>
+  <food protein="0,4" tallow="0,3" carbon="19,7" kkal="82">Компот из айвы. Консервы</food>
+  <food protein="0,6" tallow="0,3" carbon="23,7" kkal="101">Компот из вишни. Консервы</food>
+  <food protein="0,2" tallow="0,2" carbon="18,1" kkal="74">Компот из груш. Консервы</food>
+  <food protein="0,3" tallow="0" carbon="21,6" kkal="88">Компот из персиков. Консервы</food>
+  <food protein="0,5" tallow="0,2" carbon="20,6" kkal="87">Компот из черешни. Консервы</food>
+  <food protein="0,2" tallow="0,2" carbon="22,3" kkal="93">Компот из яблок. Консервы</food>
+  <food protein="0,9" tallow="0,1" carbon="9" kkal="38,3">Абрикосовое пюре</food>
+  <food protein="0,9" tallow="0,1" carbon="9" kkal="38,3">Абрикосы, консервированные (половинки или кусочки)</food>
+  <food protein="0,6" tallow="0,5" carbon="9,6" kkal="42,9">Айва, консервированная (половинки или кусочки)</food>
+  <food protein="0,6" tallow="0,6" carbon="15,4" kkal="65,5">Виноград маринованный</food>
+  <food protein="0,8" tallow="0,2" carbon="10,6" kkal="44,8">Вишня консервированная</food>
+  <food protein="0,8" tallow="0,2" carbon="10,6" kkal="44,8">Вишня маринованная</food>
+  <food protein="0,4" tallow="0,3" carbon="10,3" kkal="42,9">Груши консервированные</food>
+  <food protein="0,5" tallow="0" carbon="71,6" kkal="276">Джем из абрикосов</food>
+  <food protein="0,3" tallow="0" carbon="71,8" kkal="276">Джем мандариновый</food>
+  <food protein="0,6" tallow="0,1" carbon="72,9" kkal="284">Джем черносмородиновый</food>
+  <food protein="0,4" tallow="0,2" carbon="58,9" kkal="243">Киви подварка</food>
+  <food protein="0,8" tallow="0,4" carbon="8,2" kkal="47">Киви пюре</food>
+  <food protein="0,9" tallow="0,1" carbon="9,5" kkal="40,1">Персики консервированные (половинки или кусочки)</food>
+  <food protein="0,5" tallow="0,4" carbon="65,8" kkal="282">Повидло морковное</food>
+  <food protein="0,4" tallow="0" carbon="65" kkal="250">Повидло яблочное</food>
+  <food protein="0,4" tallow="0,1" carbon="66,3" kkal="268">Подварка апельсиновая</food>
+  <food protein="0,5" tallow="0,4" carbon="65,8" kkal="271">Подварка морковная</food>
+  <food protein="0,6" tallow="0,2" carbon="19" kkal="82">Пюре яблочное</food>
+  <food protein="0,8" tallow="0,3" carbon="9,6" kkal="41,9">Сливы консервированные</food>
+  <food protein="0,8" tallow="0,3" carbon="9,6" kkal="41,9">Сливы маринованные</food>
+  <food protein="0,2" tallow="0,1" carbon="11,5" kkal="48">Яблоки в сиропе. Консервы</food>
+  <food protein="0" tallow="0" carbon="7,9" kkal="29,6">Барбарис</food>
+  <food protein="0,7" tallow="0,5" carbon="8,2" kkal="46">Брусника</food>
+  <food protein="0,66" tallow="0,5" carbon="18,4" kkal="73">Бузина</food>
+  <food protein="1,2" tallow="0,1" carbon="6" kkal="28,2">Визига сухая</food>
+  <food protein="0,6" tallow="0,6" carbon="15,4" kkal="72">Виноград</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Водяника</food>
+  <food protein="1" tallow="0,5" carbon="6,6" kkal="39">Голубика</food>
+  <food protein="1,5" tallow="0,5" carbon="4,4" kkal="34">Ежевика</food>
+  <food protein="0" tallow="0" carbon="8" kkal="30">Жимолость</food>
+  <food protein="0,8" tallow="0,4" carbon="7,5" kkal="41">Земляника (садовая), клубника</food>
+  <food protein="1" tallow="0" carbon="9,7" kkal="40,4">Кизил</food>
+  <food protein="0,5" tallow="0,2" carbon="3,7" kkal="28">Клюква</food>
+  <food protein="0" tallow="0" carbon="7" kkal="26,3">Княженика</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Костяника</food>
+  <food protein="0,7" tallow="0,2" carbon="9,1" kkal="45">Крыжовник</food>
+  <food protein="1" tallow="0" carbon="1,9" kkal="11,1">Лимонник</food>
+  <food protein="0,8" tallow="0,5" carbon="8,3" kkal="46">Малина</food>
+  <food protein="1" tallow="0,2" carbon="8,6" kkal="38,1">Мирабель</food>
+  <food protein="0" tallow="0" carbon="31" kkal="116,3">Можжевельник</food>
+  <food protein="0,8" tallow="0,9" carbon="7,4" kkal="40">Морошка</food>
+  <food protein="0" tallow="0" carbon="14" kkal="52,5">Мушмула</food>
+  <food protein="0,6" tallow="0,2" carbon="7,7" kkal="43">Смородина красная</food>
+  <food protein="1" tallow="0,4" carbon="7,3" kkal="44">Смородина черная</food>
+  <food protein="0" tallow="0" carbon="0" kkal="0">Черемуха</food>
+  <food protein="1,1" tallow="0,6" carbon="7,6" kkal="44">Черника</food>
+  <food protein="0,7" tallow="0" carbon="12,7" kkal="50,4">Шелковица</food>
+  <food protein="1,6" tallow="0,7" carbon="22,4" kkal="109">Шиповник</food>
+  <food protein="3,4" tallow="1,4" carbon="48,3" kkal="284">Шиповник сухой</food>
+</foods>
