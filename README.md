@@ -59,7 +59,8 @@ channel:{
 	],
 	topicsId: ['awhofqfa7fh9a8w0f', '9ugawf8a8fgahwf0a8wfa']
 }
-
+</pre>
+<pre>
 user: {
 	_id: randomID,
 	isDeleted: false,
@@ -75,7 +76,8 @@ user: {
 	favoritePosts: ['wpanfonaflka','anbalfnansfpaf'],
 	likedPosts: ['aljdnjalda','apjfja;faf']
 }
-
+</pre>
+<pre>
 topic: {
 	_id: randomID,
 	isDeleted: false,
@@ -85,7 +87,8 @@ topic: {
 	date: '20.20.1000',
 	childPosts: ['sgagasgsagag', 'gasljgoalska'],
 }
-
+</pre>
+<pre>
 post: {
 	_id: randomID,
 	isDeleted: false,
@@ -113,7 +116,8 @@ var Channel = new mongoose.Schema({
     }],
     isDeleted: {type: Boolean, default: false}
 });
-
+</pre>
+<pre>
 var Post = new mongoose.Schema({
     text: {type: String},
     date: Date,
@@ -123,7 +127,8 @@ var Post = new mongoose.Schema({
     childPosts: [{type: types.ObjectId, ref: 'Post'}],
     isDeleted: {type: Boolean, default: false}
 });
-
+</pre>
+<pre>
 var Topic = new mongoose.Schema({
     hashTag: {type: String},
     description: {type: String},
@@ -132,7 +137,8 @@ var Topic = new mongoose.Schema({
     childPosts: [{type: types.ObjectId, ref: 'Post'}],
     isDeleted: {type: Boolean, default: false}
 });
-
+</pre>
+<pre>
 var User = new mongoose.Schema({
     login: {type: String, required: true, unique: true},
     passwordHash: {type: String, required: true},
@@ -149,10 +155,11 @@ var User = new mongoose.Schema({
 });
 </pre>
 //////////////////////////////////////////////////////
-//// 					Queries				  	  ////
+//// 					<b>Queries</b>				  	  
 //////////////////////////////////////////////////////
 
 /////////////////////User/////////////////////////////
+<pre>
 '/api/users/bylogin/:login'
 	GET
 		Получения пользователя по username
@@ -226,8 +233,8 @@ var User = new mongoose.Schema({
 	DELETE
 		Удаление пользователя
 		:id - ID пользователя
-
-//////////////////Channel/////////////////////////
+</pre>
+<pre>
 '/api/channels'
 	GET
 		Получеие вех каналов
@@ -260,7 +267,8 @@ var User = new mongoose.Schema({
 		Удаление канала
 		:id - ID канала
 
-//////////////////Topic/////////////////////////
+</pre>
+<pre>
 '/api/topics'
 	GET
 		Получение всех топиков
@@ -289,7 +297,8 @@ var User = new mongoose.Schema({
 	Параметры
 		hashTag
 		id (ID поста)
-//////////////////Post/////////////////////////
+</pre>
+<pre>
 '/api/posts/like/:id'
 	GET
 		Лайкнуть пост
@@ -311,3 +320,4 @@ var User = new mongoose.Schema({
 	DELETE
 		Удалить пост
 		:id - ID поста
+</pre>
